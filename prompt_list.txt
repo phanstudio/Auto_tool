@@ -1,0 +1,4 @@
+The patient has these symptoms with severity levels, listed in the table below. create a column and fill in which of the following diagnosis is most related to the symptoms: [Malaria, Typhoid Fever, Both, None]?:
+The patient has these symptoms with severity levels, listed in the table below. (create a table with only the diagnosis column filled in), diagnosis[Malaria, Typhoid Fever, Both, None]?:
+The patient has these symptoms with severity levels, listed in the table below. (create a table with only the diagnosis column filled in), the output should be in csv format, diagnosis[Malaria, Typhoid Fever, Both, None]?:
+Create a CSV with the diagnosis based on the symptoms and severity levels listed in the table below. Possible diagnoses are[Malaria, Typhoid Fever, Both, None].

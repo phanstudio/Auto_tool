@@ -1,0 +1,51 @@
+Patient_ID,ABDOMINAL PAINS,BITTER TASTE IN MOUTH,CHILLS AND RIGORS,CONSTIPATION,FATIGUE,FEVER,HIGH GRADE FEVER,STEPWISE RISE FEVER,GENERALIZED BODY PAIN,HEADACHES,LETHARGY,MUSCLE AND BODY PAIN
+Pat_301, absent, moderate, moderate, absent, moderate, moderate, moderate, moderate, absent, high, absent, absent
+Pat_302, absent, high, moderate, absent, low, very high, moderate, low, absent, high, absent, moderate
+Pat_303, absent, very high, high, absent, absent, very high, high, moderate, high, high, absent, high
+Pat_304, moderate, absent, high, absent, absent, very high, high, moderate, absent, moderate, low, absent
+Pat_305, moderate, high, moderate, absent, absent, very high, moderate, low, absent, high, absent, high
+Pat_306, absent, high, high, absent, absent, high, moderate, moderate, high, moderate, moderate, low
+Pat_307, absent, absent, very high, absent, absent, very high, very high, very high, absent, high, low, very high
+Pat_308, absent, high, high, absent, absent, high, high, absent, moderate, high, absent, high
+Pat_309, absent, high, moderate, low, low, very high, moderate, moderate, absent, high, low, high
+Pat_310, absent, low, moderate, absent, absent, very high, moderate, moderate, absent, moderate, low, high
+Pat_311, absent, absent, low, absent, moderate, very high, moderate, high, absent, low, moderate, low
+Pat_312, absent, low, moderate, low, moderate, very high, moderate, low, low, moderate, moderate, moderate
+Pat_313, absent, very high, absent, absent, absent, very high, moderate, moderate, absent, high, absent, absent
+Pat_314, moderate, absent, low, absent, absent, moderate, absent, absent, absent, moderate, absent, absent
+Pat_315, absent, high, moderate, absent, low, high, moderate, moderate, absent, high, absent, absent
+Pat_316, low, low, low, absent, low, moderate, moderate, absent, absent, moderate, absent, low
+Pat_317, moderate, moderate, moderate, low, absent, high, high, absent, absent, absent, absent, absent
+Pat_318, low, absent, moderate, absent, moderate, very high, high, absent, low, low, absent, moderate
+Pat_319, absent, absent, moderate, absent, absent, very high, moderate, absent, absent, absent, absent, moderate
+Pat_320, absent, high, moderate, absent, absent, very high, moderate, moderate, absent, moderate, absent, moderate
+Pat_321, absent, absent, moderate, absent, absent, moderate, moderate, moderate, absent, very high, low, moderate
+Pat_322, moderate, absent, moderate, absent, absent, high, moderate, low, absent, moderate, absent, low
+Pat_323, moderate, absent, moderate, absent, absent, high, moderate, low, absent, moderate, absent, low
+Pat_324, very high, absent, moderate, absent, moderate, very high, low, high, absent, absent, moderate, low
+Pat_325, absent, very high, absent, absent, absent, very high, moderate, low, absent, moderate, absent, absent
+Pat_326, moderate, very high, moderate, absent, absent, very high, moderate, high, absent, high, absent, absent
+Pat_327, absent, absent, absent, absent, moderate, very high, very high, moderate, absent, absent, moderate, absent
+Pat_328, absent, high, absent, absent, low, very high, high, moderate, absent, low, absent, absent
+Pat_329, absent, high, low, absent, low, high, moderate, moderate, moderate, moderate, absent, moderate
+Pat_330, absent, absent, absent, absent, absent, moderate, low, absent, absent, absent, absent, absent
+Pat_331, absent, absent, moderate, absent, absent, very high, absent, absent, absent, absent, absent, absent
+Pat_332, absent, absent, moderate, absent, moderate, very high, moderate, absent, moderate, moderate, moderate, low
+Pat_333, absent, absent, low, absent, absent, high, low, low, low, low, absent, low
+Pat_334, absent, absent, moderate, absent, absent, very high, moderate, absent, absent, moderate, absent, absent
+Pat_335, moderate, high, moderate, absent, absent, high, high, moderate, absent, high, absent, absent
+Pat_336, absent, moderate, moderate, absent, absent, high, high, absent, absent, high, low, moderate
+Pat_337, absent, absent, low, absent, low, high, high, low, absent, moderate, absent, moderate
+Pat_338, absent, absent, moderate, absent, low, high, moderate, moderate, low, absent, absent, low
+Pat_339, absent, absent, moderate, absent, moderate, high, high, high, absent, low, moderate, low
+Pat_340, moderate, high, absent, absent, absent, very high, moderate, high, absent, high, low, low
+Pat_341, absent, high, low, absent, moderate, very high, moderate, moderate, absent, high, absent, absent
+Pat_342, absent, high, high, absent, moderate, very high, moderate, moderate, absent, high, absent, moderate
+Pat_343, moderate, absent, high, absent, moderate, very high, high, high, absent, moderate, absent, absent
+Pat_344, moderate, absent, low, absent, low, very high, moderate, low, low, low, moderate, low
+Pat_345, absent, absent, absent, absent, absent, very high, moderate, moderate, absent, absent, absent, absent
+Pat_346, very high, absent, very high, absent, very high, very high, low, low, very high, absent, absent, very high
+Pat_347, absent, very high, very high, absent, very high, very high, low, very high, very high, very high, absent, very high
+Pat_348, absent, very high, very high, absent, very high, very high, low, low, very high, very high, absent, very high
+Pat_349, very high, absent, very high, absent, absent, very high, moderate, moderate, absent, very high, absent, absent
+Pat_350, very high, absent, very high, absent, absent, very high, low, low, absent, absent, absent, absent

@@ -1,0 +1,6677 @@
+Patient_ID,diagnosis
+Pat_1, Malaria
+Pat_2, None
+Pat_3, Both
+Pat_4, Typhoid Fever
+Pat_5, Both
+Pat_6, None
+Pat_7, Malaria
+Pat_8, Both
+Pat_9, Both
+Pat_10, Malaria
+Pat_11, None
+Pat_12, Typhoid Fever
+Pat_13, None
+Pat_14, Both
+Pat_15, Typhoid Fever
+Pat_16, None
+Pat_17, Malaria
+Pat_18, Both
+Pat_19, Malaria
+Pat_20, Malaria
+Pat_21, Typhoid Fever
+Pat_22, Both
+Pat_23, Malaria
+Pat_24, Malaria
+Pat_25, Malaria
+Pat_26, None
+Pat_27, Typhoid Fever
+Pat_28, Malaria
+Pat_29, Typhoid Fever
+Pat_30, Typhoid Fever
+Pat_31, Malaria
+Pat_32, Typhoid Fever
+Pat_33, Typhoid Fever
+Pat_34, Malaria
+Pat_35, Malaria
+Pat_36, Typhoid Fever
+Pat_37, Malaria
+Pat_38, Both
+Pat_39, Typhoid Fever
+Pat_40, Typhoid Fever
+Pat_41, Malaria
+Pat_42, Typhoid Fever
+Pat_43, Both
+Pat_44, Both
+Pat_45, Malaria
+Pat_46, Both
+Pat_47, None
+Pat_48, Typhoid Fever
+Pat_49, Malaria
+Pat_50, None
+Pat_51, Malaria
+Pat_52, Both
+Pat_53, None
+Pat_54, None
+Pat_55, Both
+Pat_56, None
+Pat_57, None
+Pat_58, Typhoid Fever
+Pat_59, None
+Pat_60, None
+Pat_61, None
+Pat_62, Malaria
+Pat_63, Typhoid Fever
+Pat_64, Typhoid Fever
+Pat_65, None
+Pat_66, Both
+Pat_67, Both
+Pat_68, None
+Pat_69, Malaria
+Pat_70, Both
+Pat_71, Malaria
+Pat_72, Malaria
+Pat_73, Both
+Pat_74, None
+Pat_75, None
+Pat_76, Typhoid Fever
+Pat_77, Both
+Pat_78, Typhoid Fever
+Pat_79, Typhoid Fever
+Pat_80, Typhoid Fever
+Pat_81, Malaria
+Pat_82, None
+Pat_83, Typhoid Fever
+Pat_84, None
+Pat_85, Malaria
+Pat_86, Both
+Pat_87, Typhoid Fever
+Pat_88, None
+Pat_89, Both
+Pat_90, Typhoid Fever
+Pat_91, Malaria
+Pat_92, None
+Pat_93, Typhoid Fever
+Pat_94, Both
+Pat_95, Typhoid Fever
+Pat_96, Both
+Pat_97, None
+Pat_98, None
+Pat_99, Malaria
+Pat_100, Malaria
+Pat_101,Malaria
+Pat_102,None
+Pat_103,Typhoid Fever
+Pat_104,None
+Pat_105,Typhoid Fever
+Pat_106,Typhoid Fever
+Pat_107,Both
+Pat_108,Both
+Pat_109,Both
+Pat_110,None
+Pat_111,Both
+Pat_112,None
+Pat_113,None
+Pat_114,Both
+Pat_115,None
+Pat_116,Both
+Pat_117,None
+Pat_118,None
+Pat_119,None
+Pat_120,Both
+Pat_121,None
+Pat_122,None
+Pat_123,Both
+Pat_124,Both
+Pat_125,Both
+Pat_126,None
+Pat_127,Both
+Pat_128,None
+Pat_129,Both
+Pat_130,None
+Pat_131,Both
+Pat_132,Both
+Pat_133,Both
+Pat_134,Both
+Pat_135,Both
+Pat_136,Both
+Pat_137,Both
+Pat_138,Both
+Pat_139,Both
+Pat_140,Both
+Pat_141,None
+Pat_142,None
+Pat_143,Both
+Pat_144,Both
+Pat_145,Both
+Pat_146,Both
+Pat_147,Both
+Pat_148,Both
+Pat_149,Both
+Pat_150,Both
+Pat_151,Malaria
+Pat_152,Malaria
+Pat_153,Both
+Pat_154,Typhoid Fever
+Pat_155,None
+Pat_156,Typhoid Fever
+Pat_157,Typhoid Fever
+Pat_158,Malaria
+Pat_159,Malaria
+Pat_160,Both
+Pat_161,Both
+Pat_162,Malaria
+Pat_163,Malaria
+Pat_164,Malaria
+Pat_165,Malaria
+Pat_166,Malaria
+Pat_167,Malaria
+Pat_168,Malaria
+Pat_169,Typhoid Fever
+Pat_170,Typhoid Fever
+Pat_171,Typhoid Fever
+Pat_172,Both
+Pat_173,Both
+Pat_174,Typhoid Fever
+Pat_175,Typhoid Fever
+Pat_176,Malaria
+Pat_177,Typhoid Fever
+Pat_178,Both
+Pat_179,Malaria
+Pat_180,None
+Pat_181,Typhoid Fever
+Pat_182,Malaria
+Pat_183,Both
+Pat_184,Malaria
+Pat_185,None
+Pat_186,Malaria
+Pat_187,Malaria
+Pat_188,Both
+Pat_189,Malaria
+Pat_190,Malaria
+Pat_191,Typhoid Fever
+Pat_192,Both
+Pat_193,Both
+Pat_194,Both
+Pat_195,None
+Pat_196,None
+Pat_197,None
+Pat_198,None
+Pat_199,None
+Pat_200,None
+Pat_201,Malaria
+Pat_202,None
+Pat_203,None
+Pat_204,Malaria
+Pat_205,None
+Pat_206,Typhoid Fever
+Pat_207,None
+Pat_208,None
+Pat_209,Malaria
+Pat_210,Typhoid Fever
+Pat_211,None
+Pat_212,None
+Pat_213,None
+Pat_214,Typhoid Fever
+Pat_215,Typhoid Fever
+Pat_216,None
+Pat_217,Malaria
+Pat_218,Malaria
+Pat_219,Malaria
+Pat_220,Malaria
+Pat_221,Malaria
+Pat_222,Malaria
+Pat_223,Malaria
+Pat_224,Malaria
+Pat_225,None
+Pat_226,None
+Pat_227,Malaria
+Pat_228,Typhoid Fever
+Pat_229,Typhoid Fever
+Pat_230,None
+Pat_231,Malaria
+Pat_232,Malaria
+Pat_233,Malaria
+Pat_234,Malaria
+Pat_235,Malaria
+Pat_236,Typhoid Fever
+Pat_237,None
+Pat_238,None
+Pat_239,Malaria
+Pat_240,Typhoid Fever
+Pat_241,Typhoid Fever
+Pat_242,None
+Pat_243,Typhoid Fever
+Pat_244,Malaria
+Pat_245,None
+Pat_246,None
+Pat_247,None
+Pat_248,None
+Pat_249,None
+Pat_250,None
+Pat_251,None
+Pat_252,None
+Pat_253,None
+Pat_254,None
+Pat_255,Both
+Pat_256,Both
+Pat_257,None
+Pat_258,None
+Pat_259,Both
+Pat_260,Both
+Pat_261,Both
+Pat_262,Both
+Pat_263,Both
+Pat_264,None
+Pat_265,Both
+Pat_266,Both
+Pat_267,None
+Pat_268,Both
+Pat_269,None
+Pat_270,None
+Pat_271,None
+Pat_272,Both
+Pat_273,Both
+Pat_274,Both
+Pat_275,Both
+Pat_276,Both
+Pat_277,Both
+Pat_278,Both
+Pat_279,Both
+Pat_280,Both
+Pat_281,Both
+Pat_282,Both
+Pat_283,Both
+Pat_284,Both
+Pat_285,Both
+Pat_286,Both
+Pat_287,Both
+Pat_288,Both
+Pat_289,Both
+Pat_290,Both
+Pat_291,None
+Pat_292,Both
+Pat_293,Both
+Pat_294,None
+Pat_295,Both
+Pat_296,Both
+Pat_297,Both
+Pat_298,None
+Pat_299,Both
+Pat_300,None
+Pat_301,None
+Pat_302,Both
+Pat_303,Both
+Pat_304,Both
+Pat_305,Both
+Pat_306,Both
+Pat_307,Both
+Pat_308,Both
+Pat_309,Both
+Pat_310,Both
+Pat_311,Both
+Pat_312,Both
+Pat_313,Both
+Pat_314,None
+Pat_315,Both
+Pat_316,None
+Pat_317,Both
+Pat_318,Both
+Pat_319,Both
+Pat_320,Both
+Pat_321,Both
+Pat_322,Both
+Pat_323,Both
+Pat_324,Both
+Pat_325,Both
+Pat_326,Both
+Pat_327,Both
+Pat_328,Both
+Pat_329,Both
+Pat_330,None
+Pat_331,None
+Pat_332,Both
+Pat_333,None
+Pat_334,None
+Pat_335,Both
+Pat_336,Both
+Pat_337,Both
+Pat_338,Both
+Pat_339,Both
+Pat_340,Both
+Pat_341,Both
+Pat_342,Both
+Pat_343,Both
+Pat_344,Both
+Pat_345,None
+Pat_346,Both
+Pat_347,Both
+Pat_348,Both
+Pat_349,Both
+Pat_350,Both
+Pat_351,Both
+Pat_352,Both
+Pat_353,None
+Pat_354,None
+Pat_355,Both
+Pat_356,Both
+Pat_357,None
+Pat_358,None
+Pat_359,None
+Pat_360,None
+Pat_361,Both
+Pat_362,None
+Pat_363,None
+Pat_364,None
+Pat_365,None
+Pat_366,Both
+Pat_367,Both
+Pat_368,Both
+Pat_369,None
+Pat_370,None
+Pat_371,None
+Pat_372,Both
+Pat_373,None
+Pat_374,None
+Pat_375,Both
+Pat_376,None
+Pat_377,Both
+Pat_378,Both
+Pat_379,None
+Pat_380,None
+Pat_381,None
+Pat_382,None
+Pat_383,None
+Pat_384,None
+Pat_385,None
+Pat_386,None
+Pat_387,Both
+Pat_388,Both
+Pat_389,None
+Pat_390,None
+Pat_391,None
+Pat_392,None
+Pat_393,None
+Pat_394,Both
+Pat_395,None
+Pat_396,None
+Pat_397,None
+Pat_398,None
+Pat_399,None
+Pat_400,None
+Pat_401,None
+Pat_402,None
+Pat_403,None
+Pat_404,None
+Pat_405,None
+Pat_406,None
+Pat_407,None
+Pat_408,None
+Pat_409,None
+Pat_410,None
+Pat_411,None
+Pat_412,None
+Pat_413,None
+Pat_414,None
+Pat_415,None
+Pat_416,None
+Pat_417,None
+Pat_418,None
+Pat_419,None
+Pat_420,None
+Pat_421,None
+Pat_422,None
+Pat_423,None
+Pat_424,None
+Pat_425,Both
+Pat_426,None
+Pat_427,None
+Pat_428,None
+Pat_429,None
+Pat_430,None
+Pat_431,None
+Pat_432,None
+Pat_433,None
+Pat_434,None
+Pat_435,None
+Pat_436,None
+Pat_437,Both
+Pat_438,Both
+Pat_439,None
+Pat_440,None
+Pat_441,Both
+Pat_442,Both
+Pat_443,Both
+Pat_444,Both
+Pat_445,None
+Pat_446,None
+Pat_447,Both
+Pat_448,Both
+Pat_449,Both
+Pat_450,None
+Pat_451,None
+Pat_452,None
+Pat_453,None
+Pat_454,None
+Pat_455,None
+Pat_456,None
+Pat_457,None
+Pat_458,None
+Pat_459,None
+Pat_460,None
+Pat_461,None
+Pat_462,None
+Pat_463,None
+Pat_464,None
+Pat_465,None
+Pat_466,None
+Pat_467,None
+Pat_468,None
+Pat_469,None
+Pat_470,None
+Pat_471,None
+Pat_472,None
+Pat_473,None
+Pat_474,None
+Pat_475,None
+Pat_476,None
+Pat_477,None
+Pat_478,None
+Pat_479,None
+Pat_480,None
+Pat_481,None
+Pat_482,None
+Pat_483,None
+Pat_484,None
+Pat_485,None
+Pat_486,None
+Pat_487,None
+Pat_488,None
+Pat_489,None
+Pat_490,None
+Pat_491,None
+Pat_492,None
+Pat_493,None
+Pat_494,None
+Pat_495,None
+Pat_496,None
+Pat_497,None
+Pat_498,None
+Pat_499,None
+Pat_500,None
+Pat_501,None
+Pat_502,None
+Pat_503,None
+Pat_504,None
+Pat_505,None
+Pat_506,None
+Pat_507,None
+Pat_508,None
+Pat_509,None
+Pat_510,None
+Pat_511,None
+Pat_512,None
+Pat_513,None
+Pat_514,None
+Pat_515,None
+Pat_516,None
+Pat_517,None
+Pat_518,None
+Pat_519,None
+Pat_520,None
+Pat_521,None
+Pat_522,None
+Pat_523,None
+Pat_524,None
+Pat_525,None
+Pat_526,None
+Pat_527,None
+Pat_528,None
+Pat_529,None
+Pat_530,None
+Pat_531,None
+Pat_532,None
+Pat_533,None
+Pat_534,None
+Pat_535,None
+Pat_536,None
+Pat_537,None
+Pat_538,None
+Pat_539,None
+Pat_540,None
+Pat_541,None
+Pat_542,None
+Pat_543,None
+Pat_544,None
+Pat_545,None
+Pat_546,None
+Pat_547,None
+Pat_548,None
+Pat_549,None
+Pat_550,None
+Pat_551,None
+Pat_552,None
+Pat_553,None
+Pat_554,None
+Pat_555,None
+Pat_556,None
+Pat_557,None
+Pat_558,None
+Pat_559,None
+Pat_560,None
+Pat_561,None
+Pat_562,None
+Pat_563,None
+Pat_564,None
+Pat_565,None
+Pat_566,None
+Pat_567,None
+Pat_568,None
+Pat_569,None
+Pat_570,None
+Pat_571,None
+Pat_572,None
+Pat_573,None
+Pat_574,None
+Pat_575,None
+Pat_576,None
+Pat_577,None
+Pat_578,None
+Pat_579,None
+Pat_580,None
+Pat_581,None
+Pat_582,None
+Pat_583,None
+Pat_584,None
+Pat_585,None
+Pat_586,None
+Pat_587,None
+Pat_588,None
+Pat_589,None
+Pat_590,None
+Pat_591,None
+Pat_592,None
+Pat_593,None
+Pat_594,None
+Pat_595,None
+Pat_596,None
+Pat_597,None
+Pat_598,None
+Pat_599,None
+Pat_600,None
+Pat_601,Malaria
+Pat_602,Malaria
+Pat_603,Malaria
+Pat_604,None
+Pat_605,Both
+Pat_606,Typhoid Fever
+Pat_607,Typhoid Fever
+Pat_608,Malaria
+Pat_609,Malaria
+Pat_610,Typhoid Fever
+Pat_611,Malaria
+Pat_612,Typhoid Fever
+Pat_613,None
+Pat_614,Malaria
+Pat_615,Both
+Pat_616,Malaria
+Pat_617,Malaria
+Pat_618,Malaria
+Pat_619,Malaria
+Pat_620,None
+Pat_621,None
+Pat_622,Typhoid Fever
+Pat_623,Malaria
+Pat_624,Malaria
+Pat_625,Malaria
+Pat_626,Malaria
+Pat_627,None
+Pat_628,None
+Pat_629,Malaria
+Pat_630,None
+Pat_631,Malaria
+Pat_632,Typhoid Fever
+Pat_633,Malaria
+Pat_634,None
+Pat_635,Malaria
+Pat_636,Malaria
+Pat_637,None
+Pat_638,Malaria
+Pat_639,Malaria
+Pat_640,None
+Pat_641,None
+Pat_642,None
+Pat_643,None
+Pat_644,None
+Pat_645,None
+Pat_646,Malaria
+Pat_647,None
+Pat_648,None
+Pat_649,None
+Pat_650,Malaria
+Pat_651,Malaria
+Pat_652,Malaria
+Pat_653,None
+Pat_654,Both
+Pat_655,Both
+Pat_656,None
+Pat_657,Malaria
+Pat_658,Malaria
+Pat_659,Malaria
+Pat_660,Malaria
+Pat_661,None
+Pat_662,Malaria
+Pat_663,Malaria
+Pat_664,Malaria
+Pat_665,Both
+Pat_666,Malaria
+Pat_667,Both
+Pat_668,Malaria
+Pat_669,Both
+Pat_670,Both
+Pat_671,Malaria
+Pat_672,Malaria
+Pat_673,Malaria
+Pat_674,Malaria
+Pat_675,Both
+Pat_676,None
+Pat_677,Malaria
+Pat_678,Both
+Pat_679,Malaria
+Pat_680,Malaria
+Pat_681,Malaria
+Pat_682,Malaria
+Pat_683,Malaria
+Pat_684,Malaria
+Pat_685,Malaria
+Pat_686,Malaria
+Pat_687,Malaria
+Pat_688,Both
+Pat_689,Both
+Pat_690,Both
+Pat_691,None
+Pat_692,Both
+Pat_693,Malaria
+Pat_694,Malaria
+Pat_695,Malaria
+Pat_696,Malaria
+Pat_697,Malaria
+Pat_698,Both
+Pat_699,Both
+Pat_700,Both
+Pat_701,Typhoid Fever
+Pat_702,Typhoid Fever
+Pat_703,Typhoid Fever
+Pat_704,Typhoid Fever
+Pat_705,Typhoid Fever
+Pat_706,Malaria
+Pat_707,Both
+Pat_708,Both
+Pat_709,Malaria
+Pat_710,Malaria
+Pat_711,Malaria
+Pat_712,Malaria
+Pat_713,Malaria
+Pat_714,Malaria
+Pat_715,Typhoid Fever
+Pat_716,None
+Pat_717,Typhoid Fever
+Pat_718,Typhoid Fever
+Pat_719,Typhoid Fever
+Pat_720,Typhoid Fever
+Pat_721,Typhoid Fever
+Pat_722,Typhoid Fever
+Pat_723,Typhoid Fever
+Pat_724,Malaria
+Pat_725,None
+Pat_726,Malaria
+Pat_727,Malaria
+Pat_728,Malaria
+Pat_729,Malaria
+Pat_730,Malaria
+Pat_731,Malaria
+Pat_732,Malaria
+Pat_733,Malaria
+Pat_734,Malaria
+Pat_735,Malaria
+Pat_736,Malaria
+Pat_737,Malaria
+Pat_738,Malaria
+Pat_739,Malaria
+Pat_740,Malaria
+Pat_741,Typhoid Fever
+Pat_742,Typhoid Fever
+Pat_743,Typhoid Fever
+Pat_744,Typhoid Fever
+Pat_745,Typhoid Fever
+Pat_746,Malaria
+Pat_747,Malaria
+Pat_748,Malaria
+Pat_749,Typhoid Fever
+Pat_750,Malaria
+Pat_751,Typhoid Fever
+Pat_752,Typhoid Fever
+Pat_753,Typhoid Fever
+Pat_754,Typhoid Fever
+Pat_755,Typhoid Fever
+Pat_756,Typhoid Fever
+Pat_757,Typhoid Fever
+Pat_758,Malaria
+Pat_759,None
+Pat_760,Typhoid Fever
+Pat_761,Typhoid Fever
+Pat_762,Both
+Pat_763,Typhoid Fever
+Pat_764,None
+Pat_765,Typhoid Fever
+Pat_766,Typhoid Fever
+Pat_767,Typhoid Fever
+Pat_768,None
+Pat_769,None
+Pat_770,None
+Pat_771,None
+Pat_772,None
+Pat_773,None
+Pat_774,Typhoid Fever
+Pat_775,Malaria
+Pat_776,Malaria
+Pat_777,Typhoid Fever
+Pat_778,Both
+Pat_779,Malaria
+Pat_780,Both
+Pat_781,Malaria
+Pat_782,Both
+Pat_783,Malaria
+Pat_784,None
+Pat_785,Malaria
+Pat_786,None
+Pat_787,Malaria
+Pat_788,Malaria
+Pat_789,Typhoid Fever
+Pat_790,Typhoid Fever
+Pat_791,Both
+Pat_792,Typhoid Fever
+Pat_793,Malaria
+Pat_794,Typhoid Fever
+Pat_795,Typhoid Fever
+Pat_796,Malaria
+Pat_797,Malaria
+Pat_798,Typhoid Fever
+Pat_799,Typhoid Fever
+Pat_800,None
+Pat_801,Malaria
+Pat_802,None
+Pat_803,None
+Pat_804,Typhoid Fever
+Pat_805,Both
+Pat_806,Both
+Pat_807,Both
+Pat_808,Typhoid Fever
+Pat_809,Both
+Pat_810,Both
+Pat_811,Both
+Pat_812,Malaria
+Pat_813,Both
+Pat_814,None
+Pat_815,None
+Pat_816,None
+Pat_817,Both
+Pat_818,None
+Pat_819,Both
+Pat_820,Both
+Pat_821,Both
+Pat_822,Both
+Pat_823,Both
+Pat_824,Both
+Pat_825,Both
+Pat_826,Both
+Pat_827,None
+Pat_828,Typhoid Fever
+Pat_829,Both
+Pat_830,Both
+Pat_831,Both
+Pat_832,None
+Pat_833,None
+Pat_834,None
+Pat_835,None
+Pat_836,None
+Pat_837,None
+Pat_838,None
+Pat_839,None
+Pat_840,None
+Pat_841,Both
+Pat_842,None
+Pat_843,None
+Pat_844,Both
+Pat_845,None
+Pat_846,None
+Pat_847,None
+Pat_848,None
+Pat_849,None
+Pat_850,None
+Pat_851,None
+Pat_852,None
+Pat_853,None
+Pat_854,None
+Pat_855,None
+Pat_856,None
+Pat_857,None
+Pat_858,None
+Pat_859,None
+Pat_860,None
+Pat_861,Both
+Pat_862,Typhoid Fever
+Pat_863,Both
+Pat_864,Typhoid Fever
+Pat_865,None
+Pat_866,None
+Pat_867,None
+Pat_868,Both
+Pat_869,Both
+Pat_870,None
+Pat_871,None
+Pat_872,Both
+Pat_873,Both
+Pat_874,None
+Pat_875,None
+Pat_876,Both
+Pat_877,Both
+Pat_878,Both
+Pat_879,None
+Pat_880,Both
+Pat_881,None
+Pat_882,Both
+Pat_883,Both
+Pat_884,Both
+Pat_885,None
+Pat_886,None
+Pat_887,None
+Pat_888,None
+Pat_889,None
+Pat_890,None
+Pat_891,None
+Pat_892,None
+Pat_893,Both
+Pat_894,None
+Pat_895,None
+Pat_896,Both
+Pat_897,Both
+Pat_898,None
+Pat_899,Both
+Pat_900,Malaria
+Pat_901,Malaria
+Pat_902,Malaria
+Pat_903,Malaria
+Pat_904,Malaria
+Pat_905,Malaria
+Pat_906,Malaria
+Pat_907,Malaria
+Pat_908,Malaria
+Pat_909,Malaria
+Pat_910,Malaria
+Pat_911,Malaria
+Pat_912,Malaria
+Pat_913,Malaria
+Pat_914,Malaria
+Pat_915,Malaria
+Pat_916,Malaria
+Pat_917,Malaria
+Pat_918,Malaria
+Pat_919,Malaria
+Pat_920,Malaria
+Pat_921,Malaria
+Pat_922,Malaria
+Pat_923,Malaria
+Pat_924,Malaria
+Pat_925,Malaria
+Pat_926,Malaria
+Pat_927, None
+Pat_928,None
+Pat_929,Malaria
+Pat_930,Malaria
+Pat_931,Malaria
+Pat_932,None
+Pat_933,Malaria
+Pat_934,Malaria
+Pat_935, None
+Pat_936,Malaria
+Pat_937, None
+Pat_938, None
+Pat_939,Malaria
+Pat_940, None
+Pat_941,None
+Pat_942,None
+Pat_943,None
+Pat_944,None
+Pat_945,Malaria
+Pat_946,Malaria
+Pat_947,Malaria
+Pat_948,Malaria
+Pat_949, None
+Pat_950, None
+Pat_951,None
+Pat_952,Malaria
+Pat_953,Malaria
+Pat_954,Malaria
+Pat_955,None
+Pat_956,Both
+Pat_957,Both
+Pat_958,Both
+Pat_959,Both
+Pat_960,Both
+Pat_961,Both
+Pat_962,Both
+Pat_963,Both
+Pat_964,Both
+Pat_965,Both
+Pat_966,Both
+Pat_967,Both
+Pat_968,Both
+Pat_969,Both
+Pat_970,Both
+Pat_971,Both
+Pat_972,Both
+Pat_973,Both
+Pat_974,Both
+Pat_975,Both
+Pat_976,Both
+Pat_977,Both
+Pat_978,Both
+Pat_979,Both
+Pat_980, None
+Pat_981, None
+Pat_982,Both
+Pat_983,Both
+Pat_984,Both
+Pat_985,Both
+Pat_986,Both
+Pat_987,Both
+Pat_988,Both
+Pat_989,Both
+Pat_990,None
+Pat_991,Both
+Pat_992,Both
+Pat_993,Both
+Pat_994,Both
+Pat_995,Both
+Pat_996,Both
+Pat_997,Both
+Pat_998,Both
+Pat_999,Both
+Pat_1000,Both
+Pat_1001,Both
+Pat_1002,Both
+Pat_1003,Both
+Pat_1004,None
+Pat_1005,Both
+Pat_1006,None
+Pat_1007,Malaria
+Pat_1008,Typhoid Fever
+Pat_1009,None
+Pat_1010,Malaria
+Pat_1011,Typhoid Fever
+Pat_1012,Malaria
+Pat_1013,Malaria
+Pat_1014,Malaria
+Pat_1015,Typhoid Fever
+Pat_1016,None
+Pat_1017,Malaria
+Pat_1018,Malaria
+Pat_1019,Malaria
+Pat_1020,None
+Pat_1021,Malaria
+Pat_1022,None
+Pat_1023,Malaria
+Pat_1024,Malaria
+Pat_1025,Malaria
+Pat_1026,Malaria
+Pat_1027,Malaria
+Pat_1028,Malaria
+Pat_1029,None
+Pat_1030,Malaria
+Pat_1031,Malaria
+Pat_1032,Malaria
+Pat_1033,Malaria
+Pat_1034,Malaria
+Pat_1035,Malaria
+Pat_1036,Malaria
+Pat_1037,Malaria
+Pat_1038,Malaria
+Pat_1039,Malaria
+Pat_1040,Malaria
+Pat_1041,Malaria
+Pat_1042,Malaria
+Pat_1043,Malaria
+Pat_1044,None
+Pat_1045,Typhoid Fever
+Pat_1046,None
+Pat_1047,Typhoid Fever
+Pat_1048,Typhoid Fever
+Pat_1049,Typhoid Fever
+Pat_1050,Typhoid Fever
+Pat_1051, None
+Pat_1052, None
+Pat_1053, None
+Pat_1054, None
+Pat_1055, None
+Pat_1056, None
+Pat_1057, None
+Pat_1058, None
+Pat_1059, Both
+Pat_1060, None
+Pat_1061, None
+Pat_1062, None
+Pat_1063, None
+Pat_1064, None
+Pat_1065, None
+Pat_1066, None
+Pat_1067, Both
+Pat_1068, None
+Pat_1069, None
+Pat_1070, None
+Pat_1071, None
+Pat_1072, None
+Pat_1073, Typhoid Fever
+Pat_1074, None
+Pat_1075, None
+Pat_1076, None
+Pat_1077, None
+Pat_1078, None
+Pat_1079, None
+Pat_1080, None
+Pat_1081, None
+Pat_1082, None
+Pat_1083, None
+Pat_1084, None
+Pat_1085, None
+Pat_1086, None
+Pat_1087, None
+Pat_1088, None
+Pat_1089, None
+Pat_1090, None
+Pat_1091, None
+Pat_1092, None
+Pat_1093, None
+Pat_1094, None
+Pat_1095, None
+Pat_1096, None
+Pat_1097, None
+Pat_1098, None
+Pat_1099, Both
+Pat_1100, Both
+Pat_1101, None
+Pat_1102, None
+Pat_1103, Both
+Pat_1104, Malaria
+Pat_1105, Both
+Pat_1106, None
+Pat_1107, None
+Pat_1108, None
+Pat_1109, Both
+Pat_1110, Both
+Pat_1111, Both
+Pat_1112, None
+Pat_1113, Malaria
+Pat_1114, None
+Pat_1115, None
+Pat_1116, None
+Pat_1117, None
+Pat_1118, None
+Pat_1119, None
+Pat_1120, None
+Pat_1121, None
+Pat_1122, None
+Pat_1123, None
+Pat_1124, None
+Pat_1125, None
+Pat_1126, None
+Pat_1127, None
+Pat_1128, None
+Pat_1129, None
+Pat_1130, None
+Pat_1131, None
+Pat_1132, None
+Pat_1133, None
+Pat_1134, None
+Pat_1135, None
+Pat_1136, None
+Pat_1137, None
+Pat_1138, None
+Pat_1139, Both
+Pat_1140, None
+Pat_1141, None
+Pat_1142, None
+Pat_1143, None
+Pat_1144, Both
+Pat_1145, None
+Pat_1146, None
+Pat_1147, None
+Pat_1148, None
+Pat_1149, Both
+Pat_1150, None
+Pat_1151, None
+Pat_1152, Both
+Pat_1153, None
+Pat_1154, None
+Pat_1155, None
+Pat_1156, None
+Pat_1157, None
+Pat_1158, None
+Pat_1159, None
+Pat_1160, Both
+Pat_1161, Both
+Pat_1162, None
+Pat_1163, Both
+Pat_1164, None
+Pat_1165, None
+Pat_1166, None
+Pat_1167, Both
+Pat_1168, None
+Pat_1169, None
+Pat_1170, None
+Pat_1171, Both
+Pat_1172, Both
+Pat_1173, None
+Pat_1174, Both
+Pat_1175, None
+Pat_1176, None
+Pat_1177, None
+Pat_1178, None
+Pat_1179, None
+Pat_1180, None
+Pat_1181, None
+Pat_1182, None
+Pat_1183, None
+Pat_1184, Both
+Pat_1185, Both
+Pat_1186, Both
+Pat_1187, None
+Pat_1188, None
+Pat_1189, None
+Pat_1190, None
+Pat_1191, None
+Pat_1192, None
+Pat_1193, None
+Pat_1194, None
+Pat_1195, None
+Pat_1196, None
+Pat_1197, None
+Pat_1198, None
+Pat_1199, None
+Pat_1200, Both
+Pat_1201,Typhoid Fever
+Pat_1202,Typhoid Fever
+Pat_1203,Both
+Pat_1204,Malaria
+Pat_1205,Malaria
+Pat_1206,Typhoid Fever
+Pat_1207,None
+Pat_1208,None
+Pat_1209,None
+Pat_1210, None
+Pat_1211,None
+Pat_1212,Malaria
+Pat_1213,None
+Pat_1214,Malaria
+Pat_1215,None
+Pat_1216,None
+Pat_1217,None
+Pat_1218,None
+Pat_1219,None
+Pat_1220,None
+Pat_1221,None
+Pat_1222,Malaria
+Pat_1223,Malaria
+Pat_1224,Malaria
+Pat_1225,Malaria
+Pat_1226,Malaria
+Pat_1227,None
+Pat_1228,None
+Pat_1229,None
+Pat_1230,None
+Pat_1231,None
+Pat_1232,None
+Pat_1233,None
+Pat_1234,None
+Pat_1235, Typhoid Fever
+Pat_1236,None
+Pat_1237,None
+Pat_1238,None
+Pat_1239,None
+Pat_1240, None
+Pat_1241,None
+Pat_1242,None
+Pat_1243, None
+Pat_1244, None
+Pat_1245, None
+Pat_1246,None
+Pat_1247,None
+Pat_1248,None
+Pat_1249, Typhoid Fever
+Pat_1250, None
+Pat_1251,None
+Pat_1252,None
+Pat_1253,None
+Pat_1254,None
+Pat_1255,None
+Pat_1256,Malaria
+Pat_1257,None
+Pat_1258,None
+Pat_1259,None
+Pat_1260,Malaria
+Pat_1261,None
+Pat_1262,None
+Pat_1263,None
+Pat_1264,None
+Pat_1265,None
+Pat_1266,None
+Pat_1267,None
+Pat_1268,None
+Pat_1269,Typhoid Fever
+Pat_1270,None
+Pat_1271,None
+Pat_1272,None
+Pat_1273,None
+Pat_1274,Typhoid Fever
+Pat_1275,None
+Pat_1276,None
+Pat_1277,None
+Pat_1278,None
+Pat_1279,Malaria
+Pat_1280,None
+Pat_1281,Malaria
+Pat_1282,Malaria
+Pat_1283,None
+Pat_1284,Malaria
+Pat_1285,None
+Pat_1286,None
+Pat_1287,Malaria
+Pat_1288,None
+Pat_1289,None
+Pat_1290,None
+Pat_1291,None
+Pat_1292,Malaria
+Pat_1293,Malaria
+Pat_1294,None
+Pat_1295,None
+Pat_1296,None
+Pat_1297,None
+Pat_1298,Typhoid Fever
+Pat_1299,None
+Pat_1300,None
+Pat_1301, Malaria
+Pat_1302, Malaria
+Pat_1303, None
+Pat_1304, Malaria
+Pat_1305, Malaria
+Pat_1306, None
+Pat_1307, Typhoid Fever
+Pat_1308, Malaria
+Pat_1309, Malaria
+Pat_1310, None
+Pat_1311, Malaria
+Pat_1312, None
+Pat_1313, None
+Pat_1314, Malaria
+Pat_1315, None
+Pat_1316, Typhoid Fever
+Pat_1317, Malaria
+Pat_1318, Malaria
+Pat_1319, Malaria
+Pat_1320, Malaria
+Pat_1321, Malaria
+Pat_1322, Typhoid Fever
+Pat_1323, None
+Pat_1324, None
+Pat_1325, None
+Pat_1326, None
+Pat_1327, Malaria
+Pat_1328, None
+Pat_1329, None
+Pat_1330, None
+Pat_1331, None
+Pat_1332, None
+Pat_1333, None
+Pat_1334, None
+Pat_1335, None
+Pat_1336, None
+Pat_1337, None
+Pat_1338, Malaria
+Pat_1339, None
+Pat_1340, None
+Pat_1341, None
+Pat_1342, None
+Pat_1343, None
+Pat_1344, None
+Pat_1345, Typhoid Fever
+Pat_1346, Typhoid Fever
+Pat_1347, None
+Pat_1348, None
+Pat_1349, None
+Pat_1350, None
+Pat_1351,None
+Pat_1352,None
+Pat_1353,None
+Pat_1354,None
+Pat_1355,Typhoid Fever
+Pat_1356,None
+Pat_1357,None
+Pat_1358,None
+Pat_1359,None
+Pat_1360,None
+Pat_1361,None
+Pat_1362,None
+Pat_1363,None
+Pat_1364,None
+Pat_1365,None
+Pat_1366,None
+Pat_1367,None
+Pat_1368,None
+Pat_1369,None
+Pat_1370,None
+Pat_1371,None
+Pat_1372,None
+Pat_1373,None
+Pat_1374,None
+Pat_1375,None
+Pat_1376,None
+Pat_1377,None
+Pat_1378,None
+Pat_1379,None
+Pat_1380,None
+Pat_1381,None
+Pat_1382,None
+Pat_1383,None
+Pat_1384,None
+Pat_1385,None
+Pat_1386,None
+Pat_1387,None
+Pat_1388,None
+Pat_1389,None
+Pat_1390,None
+Pat_1391,None
+Pat_1392,None
+Pat_1393,None
+Pat_1394,None
+Pat_1395,Malaria
+Pat_1396,None
+Pat_1397,None
+Pat_1398,None
+Pat_1399,None
+Pat_1400,None
+Pat_1401,None
+Pat_1402,None
+Pat_1403,None
+Pat_1404,None
+Pat_1405,None
+Pat_1406,None
+Pat_1407,Malaria
+Pat_1408,Malaria
+Pat_1409,None
+Pat_1410,None
+Pat_1411,Both
+Pat_1412,None
+Pat_1413,None
+Pat_1414,None
+Pat_1415,Both
+Pat_1416,Both
+Pat_1417,None
+Pat_1418,None
+Pat_1419,Both
+Pat_1420,Both
+Pat_1421,Both
+Pat_1422,None
+Pat_1423,Both
+Pat_1424,Both
+Pat_1425,Both
+Pat_1426,None
+Pat_1427,Both
+Pat_1428,Both
+Pat_1429,Both
+Pat_1430,Both
+Pat_1431,Both
+Pat_1432,Both
+Pat_1433,Both
+Pat_1434,Both
+Pat_1435,None
+Pat_1436,Both
+Pat_1437,None
+Pat_1438,Both
+Pat_1439,None
+Pat_1440,Both
+Pat_1441,None
+Pat_1442,None
+Pat_1443,None
+Pat_1444,Both
+Pat_1445,Both
+Pat_1446,None
+Pat_1447,Both
+Pat_1448,Both
+Pat_1449,None
+Pat_1450,Both
+Pat_1451,Typhoid Fever
+Pat_1452,Both
+Pat_1453,None
+Pat_1454,None
+Pat_1455,None
+Pat_1456,None
+Pat_1457,None
+Pat_1458,None
+Pat_1459,None
+Pat_1460,None
+Pat_1461,Malaria
+Pat_1462,None
+Pat_1463,None
+Pat_1464,Malaria
+Pat_1465,None
+Pat_1466,None
+Pat_1467,None
+Pat_1468,None
+Pat_1469,None
+Pat_1470,None
+Pat_1471,None
+Pat_1472,None
+Pat_1473,Malaria
+Pat_1474,None
+Pat_1475,None
+Pat_1476,None
+Pat_1477,None
+Pat_1478,None
+Pat_1479,None
+Pat_1480,None
+Pat_1481,None
+Pat_1482,None
+Pat_1483,None
+Pat_1484,None
+Pat_1485,None
+Pat_1486,None
+Pat_1487,None
+Pat_1488,None
+Pat_1489,None
+Pat_1490,None
+Pat_1491,None
+Pat_1492,None
+Pat_1493,None
+Pat_1494,None
+Pat_1495,None
+Pat_1496,None
+Pat_1497,None
+Pat_1498,None
+Pat_1499,Malaria
+Pat_1500,Malaria
+Pat_1501,Malaria
+Pat_1502,None
+Pat_1503,Both
+Pat_1504,None
+Pat_1505,None
+Pat_1506,None
+Pat_1507,None
+Pat_1508,None
+Pat_1509,None
+Pat_1510,None
+Pat_1511,None
+Pat_1512,None
+Pat_1513,None
+Pat_1514,None
+Pat_1515,None
+Pat_1516,None
+Pat_1517,None
+Pat_1518,None
+Pat_1519,None
+Pat_1520,None
+Pat_1521,None
+Pat_1522,None
+Pat_1523,None
+Pat_1524,None
+Pat_1525,None
+Pat_1526,None
+Pat_1527,None
+Pat_1528,None
+Pat_1529,None
+Pat_1530,None
+Pat_1531,None
+Pat_1532,None
+Pat_1533,None
+Pat_1534,None
+Pat_1535,None
+Pat_1536,None
+Pat_1537,None
+Pat_1538,None
+Pat_1539,None
+Pat_1540,None
+Pat_1541,None
+Pat_1542,None
+Pat_1543,None
+Pat_1544,None
+Pat_1545,None
+Pat_1546,None
+Pat_1547,None
+Pat_1548,None
+Pat_1549,None
+Pat_1550,None
+Pat_1551,None
+Pat_1552,Malaria
+Pat_1553,None
+Pat_1554,None
+Pat_1555,None
+Pat_1556,None
+Pat_1557,Typhoid Fever
+Pat_1558,Malaria
+Pat_1559,Malaria
+Pat_1560,Malaria
+Pat_1561,Malaria
+Pat_1562,Malaria
+Pat_1563,Typhoid Fever
+Pat_1564,None
+Pat_1565,Malaria
+Pat_1566,Malaria
+Pat_1567,Malaria
+Pat_1568,None
+Pat_1569,None
+Pat_1570,None
+Pat_1571,None
+Pat_1572,None
+Pat_1573,None
+Pat_1574,None
+Pat_1575,None
+Pat_1576,None
+Pat_1577,None
+Pat_1578,None
+Pat_1579,None
+Pat_1580,None
+Pat_1581,None
+Pat_1582,Malaria
+Pat_1583,Typhoid Fever
+Pat_1584,Typhoid Fever
+Pat_1585,Malaria
+Pat_1586,Malaria
+Pat_1587,Malaria
+Pat_1588,Malaria
+Pat_1589,Malaria
+Pat_1590,Malaria
+Pat_1591,None
+Pat_1592,Malaria
+Pat_1593,None
+Pat_1594,None
+Pat_1595,Malaria
+Pat_1596,None
+Pat_1597,Malaria
+Pat_1598,Malaria
+Pat_1599,Malaria
+Pat_1600,Malaria
+Pat_1601,None
+Pat_1602,Typhoid Fever
+Pat_1603,Typhoid Fever
+Pat_1604,Both
+Pat_1605,None
+Pat_1606,Both
+Pat_1607,Both
+Pat_1608,None
+Pat_1609,None
+Pat_1610,None
+Pat_1611,None
+Pat_1612,None
+Pat_1613,None
+Pat_1614,None
+Pat_1615,None
+Pat_1616,None
+Pat_1617,None
+Pat_1618,None
+Pat_1619,None
+Pat_1620,None
+Pat_1621,None
+Pat_1622,Both
+Pat_1623,None
+Pat_1624,None
+Pat_1625,None
+Pat_1626,None
+Pat_1627,None
+Pat_1628,Both
+Pat_1629,None
+Pat_1630,None
+Pat_1631,None
+Pat_1632,None
+Pat_1633,None
+Pat_1634,None
+Pat_1635,None
+Pat_1636,None
+Pat_1637,None
+Pat_1638,None
+Pat_1639,None
+Pat_1640,None
+Pat_1641,Both
+Pat_1642,None
+Pat_1643,None
+Pat_1644,None
+Pat_1645,None
+Pat_1646,None
+Pat_1647,None
+Pat_1648,None
+Pat_1649,None
+Pat_1650,Both
+Pat_1651,Both
+Pat_1652,None
+Pat_1653,None
+Pat_1654,Both
+Pat_1655,Both
+Pat_1656,Both
+Pat_1657,None
+Pat_1658,None
+Pat_1659,None
+Pat_1660,None
+Pat_1661,Both
+Pat_1662,Both
+Pat_1663,None
+Pat_1664,None
+Pat_1665,Both
+Pat_1666,Both
+Pat_1667,None
+Pat_1668,Both
+Pat_1669,Both
+Pat_1670,None
+Pat_1671,Both
+Pat_1672,Both
+Pat_1673,Both
+Pat_1674,Both
+Pat_1675,Both
+Pat_1676,None
+Pat_1677,Both
+Pat_1678,Both
+Pat_1679,Both
+Pat_1680,None
+Pat_1681,None
+Pat_1682,None
+Pat_1683,None
+Pat_1684,None
+Pat_1685,Both
+Pat_1686,None
+Pat_1687,None
+Pat_1688,None
+Pat_1689,None
+Pat_1690,None
+Pat_1691,Both
+Pat_1692,None
+Pat_1693,None
+Pat_1694,Both
+Pat_1695,Both
+Pat_1696,None
+Pat_1697,Both
+Pat_1698,Both
+Pat_1699,Both
+Pat_1700,None
+Pat_1701,None
+Pat_1702,None
+Pat_1703,None
+Pat_1704,None
+Pat_1705,None
+Pat_1706,None
+Pat_1707,None
+Pat_1708,None
+Pat_1709,None
+Pat_1710,None
+Pat_1711,Both
+Pat_1712,None
+Pat_1713,Both
+Pat_1714,Both
+Pat_1715,Both
+Pat_1716,Both
+Pat_1717,None
+Pat_1718,None
+Pat_1719,None
+Pat_1720,None
+Pat_1721,None
+Pat_1722,None
+Pat_1723,None
+Pat_1724,None
+Pat_1725,None
+Pat_1726,None
+Pat_1727,None
+Pat_1728,None
+Pat_1729,None
+Pat_1730,None
+Pat_1731,Both
+Pat_1732,None
+Pat_1733,None
+Pat_1734,Both
+Pat_1735,Both
+Pat_1736,Both
+Pat_1737,None
+Pat_1738,None
+Pat_1739,Both
+Pat_1740,None
+Pat_1741,None
+Pat_1742,None
+Pat_1743,None
+Pat_1744,None
+Pat_1745,None
+Pat_1746,None
+Pat_1747,None
+Pat_1748,None
+Pat_1749,None
+Pat_1750,None
+Pat_1751,None
+Pat_1752,Both
+Pat_1753,Both
+Pat_1754,Both
+Pat_1755,None
+Pat_1756,None
+Pat_1757,None
+Pat_1758,None
+Pat_1759,None
+Pat_1760,Both
+Pat_1761,Both
+Pat_1762,Both
+Pat_1763,Both
+Pat_1764,Both
+Pat_1765,Both
+Pat_1766,Both
+Pat_1767,Both
+Pat_1768,Both
+Pat_1769,Both
+Pat_1770,None
+Pat_1771,Both
+Pat_1772,Both
+Pat_1773,Both
+Pat_1774,Both
+Pat_1775,Both
+Pat_1776,None
+Pat_1777,Both
+Pat_1778,Both
+Pat_1779,Both
+Pat_1780,Both
+Pat_1781,Both
+Pat_1782,Both
+Pat_1783,Both
+Pat_1784,Both
+Pat_1785,Both
+Pat_1786,Both
+Pat_1787,Both
+Pat_1788,Both
+Pat_1789,Both
+Pat_1790,Both
+Pat_1791,Both
+Pat_1792,Both
+Pat_1793,Both
+Pat_1794,Both
+Pat_1795,Both
+Pat_1796,Both
+Pat_1797,Both
+Pat_1798,Both
+Pat_1799,Both
+Pat_1800,Both
+Pat_1801, Both
+Pat_1802, Both
+Pat_1803, Both
+Pat_1804, Both
+Pat_1805, None
+Pat_1806, Malaria
+Pat_1807, Both
+Pat_1808, Malaria
+Pat_1809, Both
+Pat_1810, Both
+Pat_1811, Both
+Pat_1812, Malaria
+Pat_1813, Malaria
+Pat_1814, None
+Pat_1815, Malaria
+Pat_1816, None
+Pat_1817, Malaria
+Pat_1818, None
+Pat_1819, None
+Pat_1820, None
+Pat_1821, Malaria
+Pat_1822, None
+Pat_1823, Malaria
+Pat_1824, None
+Pat_1825, None
+Pat_1826, Malaria
+Pat_1827, Both
+Pat_1828, None
+Pat_1829, None
+Pat_1830, None
+Pat_1831, Malaria
+Pat_1832, Malaria
+Pat_1833, Malaria
+Pat_1834, Both
+Pat_1835, Malaria
+Pat_1836, Malaria
+Pat_1837, Both
+Pat_1838, Malaria
+Pat_1839, Both
+Pat_1840, Malaria
+Pat_1841, Both
+Pat_1842, Malaria
+Pat_1843, Malaria
+Pat_1844, Malaria
+Pat_1845, Malaria
+Pat_1846, Malaria
+Pat_1847, Malaria
+Pat_1848, Both
+Pat_1849, Both
+Pat_1850, Malaria
+Pat_1851, Both
+Pat_1852, Both
+Pat_1853, Malaria
+Pat_1854, None
+Pat_1855, None
+Pat_1856, None
+Pat_1857, None
+Pat_1858, None
+Pat_1859, None
+Pat_1860, None
+Pat_1861, None
+Pat_1862, None
+Pat_1863, None
+Pat_1864, None
+Pat_1865, None
+Pat_1866, None
+Pat_1867, None
+Pat_1868, None
+Pat_1869, None
+Pat_1870, None
+Pat_1871, None
+Pat_1872, None
+Pat_1873, None
+Pat_1874, None
+Pat_1875, None
+Pat_1876, None
+Pat_1877, None
+Pat_1878, None
+Pat_1879, None
+Pat_1880, None
+Pat_1881, None
+Pat_1882, None
+Pat_1883, None
+Pat_1884, None
+Pat_1885, None
+Pat_1886, None
+Pat_1887, None
+Pat_1888, None
+Pat_1889, None
+Pat_1890, None
+Pat_1891, None
+Pat_1892, None
+Pat_1893, None
+Pat_1894, None
+Pat_1895, None
+Pat_1896, None
+Pat_1897, None
+Pat_1898, None
+Pat_1899, None
+Pat_1900, None
+Pat_1901, None
+Pat_1902, None
+Pat_1903, None
+Pat_1904, None
+Pat_1905, None
+Pat_1906, None
+Pat_1907, None
+Pat_1908, None
+Pat_1909, None
+Pat_1910, None
+Pat_1911, None
+Pat_1912, None
+Pat_1913, None
+Pat_1914, None
+Pat_1915, None
+Pat_1916, None
+Pat_1917, None
+Pat_1918, None
+Pat_1919, None
+Pat_1920, None
+Pat_1921, None
+Pat_1922, None
+Pat_1923, None
+Pat_1924, None
+Pat_1925, None
+Pat_1926, None
+Pat_1927, None
+Pat_1928, None
+Pat_1929, None
+Pat_1930, None
+Pat_1931, None
+Pat_1932, None
+Pat_1933, None
+Pat_1934, None
+Pat_1935, None
+Pat_1936, None
+Pat_1937, None
+Pat_1938, None
+Pat_1939, None
+Pat_1940, None
+Pat_1941, None
+Pat_1942, None
+Pat_1943, None
+Pat_1944, None
+Pat_1945, None
+Pat_1946, None
+Pat_1947, None
+Pat_1948, None
+Pat_1949, None
+Pat_1950, None
+Pat_1951, Malaria
+Pat_1952, None
+Pat_1953, Typhoid Fever
+Pat_1954, Both
+Pat_1955, None
+Pat_1956, None
+Pat_1957, Malaria
+Pat_1958, None
+Pat_1959, Both
+Pat_1960, Typhoid Fever
+Pat_1961, None
+Pat_1962, None
+Pat_1963, None
+Pat_1964, None
+Pat_1965, None
+Pat_1966, Malaria
+Pat_1967, None
+Pat_1968, None
+Pat_1969, Malaria
+Pat_1970, None
+Pat_1971, None
+Pat_1972, None
+Pat_1973, None
+Pat_1974, None
+Pat_1975, None
+Pat_1976, None
+Pat_1977, None
+Pat_1978, None
+Pat_1979, None
+Pat_1980, None
+Pat_1981, None
+Pat_1982, Both
+Pat_1983, None
+Pat_1984, Both
+Pat_1985, Both
+Pat_1986, None
+Pat_1987, None
+Pat_1988, None
+Pat_1989, None
+Pat_1990, None
+Pat_1991, None
+Pat_1992, None
+Pat_1993, None
+Pat_1994, None
+Pat_1995, Typhoid Fever
+Pat_1996, None
+Pat_1997, Both
+Pat_1998, None
+Pat_1999, None
+Pat_2000, None
+Pat_2001, None
+Pat_2002, None
+Pat_2003, None
+Pat_2004, None
+Pat_2005, None
+Pat_2006, None
+Pat_2007, Malaria
+Pat_2008, Malaria
+Pat_2009, Both
+Pat_2010, None
+Pat_2011, None
+Pat_2012, None
+Pat_2013, None
+Pat_2014, None
+Pat_2015, None
+Pat_2016, None
+Pat_2017, None
+Pat_2018, None
+Pat_2019, None
+Pat_2020, None
+Pat_2021, None
+Pat_2022, None
+Pat_2023, None
+Pat_2024, None
+Pat_2025, None
+Pat_2026, None
+Pat_2027, None
+Pat_2028, None
+Pat_2029, None
+Pat_2030, None
+Pat_2031, None
+Pat_2032, None
+Pat_2033, None
+Pat_2034, None
+Pat_2035, None
+Pat_2036, None
+Pat_2037, None
+Pat_2038, None
+Pat_2039, None
+Pat_2040, None
+Pat_2041, None
+Pat_2042, Both
+Pat_2043, None
+Pat_2044, None
+Pat_2045, None
+Pat_2046, None
+Pat_2047, None
+Pat_2048, None
+Pat_2049, None
+Pat_2050, None
+Pat_2051,None
+Pat_2052,None
+Pat_2053,Both
+Pat_2054,None
+Pat_2055,Both
+Pat_2056,Both
+Pat_2057,None
+Pat_2058,None
+Pat_2059,None
+Pat_2060,None
+Pat_2061,None
+Pat_2062,Both
+Pat_2063,Both
+Pat_2064,Both
+Pat_2065,Both
+Pat_2066,Both
+Pat_2067,Both
+Pat_2068,Both
+Pat_2069,Both
+Pat_2070,None
+Pat_2071,Both
+Pat_2072,None
+Pat_2073,Both
+Pat_2074,Both
+Pat_2075,Both
+Pat_2076,Both
+Pat_2077,Both
+Pat_2078,Both
+Pat_2079,Both
+Pat_2080,Both
+Pat_2081,Both
+Pat_2082,None
+Pat_2083,Both
+Pat_2084,Both
+Pat_2085,Both
+Pat_2086,Both
+Pat_2087,Both
+Pat_2088,Both
+Pat_2089,Both
+Pat_2090,None
+Pat_2091,Both
+Pat_2092,Both
+Pat_2093,None
+Pat_2094,Both
+Pat_2095,Both
+Pat_2096,None
+Pat_2097,None
+Pat_2098,Both
+Pat_2099,None
+Pat_2100,Both
+Pat_2101,Both
+Pat_2102,None
+Pat_2103,Both
+Pat_2104,None
+Pat_2105,None
+Pat_2106,Both
+Pat_2107,None
+Pat_2108,Both
+Pat_2109,Both
+Pat_2110,None
+Pat_2111,None
+Pat_2112,Both
+Pat_2113,None
+Pat_2114,Both
+Pat_2115,None
+Pat_2116,None
+Pat_2117,None
+Pat_2118,None
+Pat_2119,Both
+Pat_2120,None
+Pat_2121,None
+Pat_2122,None
+Pat_2123,None
+Pat_2124,None
+Pat_2125,None
+Pat_2126,None
+Pat_2127,None
+Pat_2128,None
+Pat_2129,None
+Pat_2130,None
+Pat_2131,None
+Pat_2132,None
+Pat_2133,None
+Pat_2134,None
+Pat_2135,None
+Pat_2136,None
+Pat_2137,None
+Pat_2138,None
+Pat_2139,None
+Pat_2140,None
+Pat_2141,None
+Pat_2142,None
+Pat_2143,None
+Pat_2144,None
+Pat_2145,None
+Pat_2146,None
+Pat_2147,None
+Pat_2148,Both
+Pat_2149,Both
+Pat_2150,Both
+Pat_2151,Both
+Pat_2152,None
+Pat_2153,Both
+Pat_2154,None
+Pat_2155,None
+Pat_2156,None
+Pat_2157,None
+Pat_2158,Both
+Pat_2159,None
+Pat_2160,None
+Pat_2161,Both
+Pat_2162,Both
+Pat_2163,None
+Pat_2164,Both
+Pat_2165,Both
+Pat_2166,Both
+Pat_2167,None
+Pat_2168,None
+Pat_2169,Both
+Pat_2170,Both
+Pat_2171,Both
+Pat_2172,None
+Pat_2173,None
+Pat_2174,None
+Pat_2175,None
+Pat_2176,None
+Pat_2177,None
+Pat_2178,None
+Pat_2179,None
+Pat_2180,None
+Pat_2181,None
+Pat_2182,None
+Pat_2183,None
+Pat_2184,None
+Pat_2185,None
+Pat_2186,None
+Pat_2187,None
+Pat_2188,None
+Pat_2189,Both
+Pat_2190,None
+Pat_2191,None
+Pat_2192,None
+Pat_2193,None
+Pat_2194,None
+Pat_2195,None
+Pat_2196,None
+Pat_2197,None
+Pat_2198,None
+Pat_2199,None
+Pat_2200,Both
+Pat_2201,Both
+Pat_2202,None
+Pat_2203,None
+Pat_2204,None
+Pat_2205,Both
+Pat_2206,Both
+Pat_2207,None
+Pat_2208,None
+Pat_2209,Both
+Pat_2210,Both
+Pat_2211,None
+Pat_2212,None
+Pat_2213,Both
+Pat_2214,None
+Pat_2215,None
+Pat_2216,None
+Pat_2217,None
+Pat_2218,None
+Pat_2219,None
+Pat_2220,None
+Pat_2221,Both
+Pat_2222,None
+Pat_2223,None
+Pat_2224,None
+Pat_2225,None
+Pat_2226,None
+Pat_2227,None
+Pat_2228,None
+Pat_2229,None
+Pat_2230,None
+Pat_2231,None
+Pat_2232,None
+Pat_2233,None
+Pat_2234,None
+Pat_2235,None
+Pat_2236,None
+Pat_2237,None
+Pat_2238,None
+Pat_2239,None
+Pat_2240,None
+Pat_2241,None
+Pat_2242,None
+Pat_2243,None
+Pat_2244,None
+Pat_2245,None
+Pat_2246,None
+Pat_2247,None
+Pat_2248,None
+Pat_2249,None
+Pat_2250,None
+Pat_2251,None
+Pat_2252,None
+Pat_2253,Typhoid Fever
+Pat_2254,None
+Pat_2255,None
+Pat_2256,None
+Pat_2257,None
+Pat_2258,None
+Pat_2259,None
+Pat_2260,None
+Pat_2261,None
+Pat_2262,None
+Pat_2263,Typhoid Fever
+Pat_2264,None
+Pat_2265,None
+Pat_2266,None
+Pat_2267,None
+Pat_2268,None
+Pat_2269,Both
+Pat_2270,Both
+Pat_2271,Both
+Pat_2272,None
+Pat_2273,None
+Pat_2274,None
+Pat_2275,None
+Pat_2276,Both
+Pat_2277,Both
+Pat_2278,None
+Pat_2279,Both
+Pat_2280,Both
+Pat_2281,Both
+Pat_2282,None
+Pat_2283,None
+Pat_2284,None
+Pat_2285,None
+Pat_2286,None
+Pat_2287,Both
+Pat_2288,Both
+Pat_2289,Both
+Pat_2290,Both
+Pat_2291,Both
+Pat_2292,None
+Pat_2293,Both
+Pat_2294,None
+Pat_2295,None
+Pat_2296,Both
+Pat_2297,None
+Pat_2298,None
+Pat_2299,None
+Pat_2300,Both
+Pat_2301,None
+Pat_2302,None
+Pat_2303,Malaria
+Pat_2304,None
+Pat_2305,Both
+Pat_2306,Both
+Pat_2307,Both
+Pat_2308,None
+Pat_2309,None
+Pat_2310,Both
+Pat_2311,Both
+Pat_2312,None
+Pat_2313,Both
+Pat_2314,Both
+Pat_2315,Both
+Pat_2316,Both
+Pat_2317,None
+Pat_2318,None
+Pat_2319,Both
+Pat_2320,None
+Pat_2321,None
+Pat_2322,Malaria
+Pat_2323,Both
+Pat_2324,Both
+Pat_2325,None
+Pat_2326,None
+Pat_2327,Both
+Pat_2328,Both
+Pat_2329,Both
+Pat_2330,None
+Pat_2331,None
+Pat_2332,None
+Pat_2333,Both
+Pat_2334,Both
+Pat_2335,Both
+Pat_2336,None
+Pat_2337,None
+Pat_2338,None
+Pat_2339,None
+Pat_2340,None
+Pat_2341,Both
+Pat_2342,None
+Pat_2343,None
+Pat_2344,Both
+Pat_2345,Both
+Pat_2346,Both
+Pat_2347,Both
+Pat_2348,Both
+Pat_2349,None
+Pat_2350,None
+Pat_2351,Both
+Pat_2352, Both
+Pat_2353,Both
+Pat_2354,Both
+Pat_2355,Both
+Pat_2356,Both
+Pat_2357,Both
+Pat_2358, None
+Pat_2359, None
+Pat_2360, None
+Pat_2361, None
+Pat_2362, None
+Pat_2363, None
+Pat_2364, None
+Pat_2365, None
+Pat_2366, None
+Pat_2367, None
+Pat_2368, None
+Pat_2369, None
+Pat_2370, None
+Pat_2371, None
+Pat_2372, None
+Pat_2373, None
+Pat_2374, None
+Pat_2375, None
+Pat_2376, None
+Pat_2377, None
+Pat_2378, None
+Pat_2379,Both
+Pat_2380, None
+Pat_2381, None
+Pat_2382, None
+Pat_2383, None
+Pat_2384, None
+Pat_2385, None
+Pat_2386, None
+Pat_2387,None
+Pat_2388, None
+Pat_2389,None
+Pat_2390,None
+Pat_2391, None
+Pat_2392,None
+Pat_2393, None
+Pat_2394, None
+Pat_2395, None
+Pat_2396, None
+Pat_2397, None
+Pat_2398, None
+Pat_2399, None
+Pat_2400, None
+Pat_2401,Both
+Pat_2402,None
+Pat_2403,None
+Pat_2404, None
+Pat_2405, None
+Pat_2406, None
+Pat_2407, None
+Pat_2408, None
+Pat_2409, None
+Pat_2410, None
+Pat_2411, None
+Pat_2412, None
+Pat_2413, None
+Pat_2414, None
+Pat_2415, None
+Pat_2416, None
+Pat_2417, None
+Pat_2418, None
+Pat_2419, None
+Pat_2420, None
+Pat_2421, None
+Pat_2422, None
+Pat_2423, None
+Pat_2424, None
+Pat_2425, None
+Pat_2426, None
+Pat_2427, None
+Pat_2428, None
+Pat_2429, None
+Pat_2430,None
+Pat_2431,Both
+Pat_2432,None
+Pat_2433,None
+Pat_2434,None
+Pat_2435,None
+Pat_2436,None
+Pat_2437,None
+Pat_2438,None
+Pat_2439,None
+Pat_2440,None
+Pat_2441,None
+Pat_2442,None
+Pat_2443,None
+Pat_2444,None
+Pat_2445,None
+Pat_2446,None
+Pat_2447,None
+Pat_2448,None
+Pat_2449,None
+Pat_2450,None
+Pat_2451,None
+Pat_2452,None
+Pat_2453,None
+Pat_2454,None
+Pat_2455,None
+Pat_2456,None
+Pat_2457,None
+Pat_2458,None
+Pat_2459,None
+Pat_2460,None
+Pat_2461,None
+Pat_2462,None
+Pat_2463,None
+Pat_2464,None
+Pat_2465,None
+Pat_2466,None
+Pat_2467,None
+Pat_2468,None
+Pat_2469,Malaria
+Pat_2470,None
+Pat_2471,Both
+Pat_2472,Malaria
+Pat_2473,Malaria
+Pat_2474,Both
+Pat_2475,None
+Pat_2476,Typhoid Fever
+Pat_2477,Typhoid Fever
+Pat_2478,Typhoid Fever
+Pat_2479,Typhoid Fever
+Pat_2480,Typhoid Fever
+Pat_2481,Typhoid Fever
+Pat_2482,Typhoid Fever
+Pat_2483,Typhoid Fever
+Pat_2484,Typhoid Fever
+Pat_2485,Typhoid Fever
+Pat_2486,Typhoid Fever
+Pat_2487,Typhoid Fever
+Pat_2488,Typhoid Fever
+Pat_2489,Typhoid Fever
+Pat_2490,Typhoid Fever
+Pat_2491,Typhoid Fever
+Pat_2492,Typhoid Fever
+Pat_2493,Typhoid Fever
+Pat_2494,Typhoid Fever
+Pat_2495,Typhoid Fever
+Pat_2496,Typhoid Fever
+Pat_2497,Typhoid Fever
+Pat_2498,Typhoid Fever
+Pat_2499,Typhoid Fever
+Pat_2500,Typhoid Fever
+Pat_2501,Both
+Pat_2502,Malaria
+Pat_2503,Typhoid Fever
+Pat_2504, Typhoid Fever
+Pat_2505,None
+Pat_2506,Malaria
+Pat_2507, Typhoid Fever
+Pat_2508, Typhoid Fever
+Pat_2509, Typhoid Fever
+Pat_2510, Typhoid Fever
+Pat_2511, Malaria
+Pat_2512, Typhoid Fever
+Pat_2513, Malaria
+Pat_2514, None
+Pat_2515, None
+Pat_2516, Malaria
+Pat_2517, Malaria
+Pat_2518, None
+Pat_2519, Malaria
+Pat_2520, None
+Pat_2521, Malaria
+Pat_2522, Both
+Pat_2523, Typhoid Fever
+Pat_2524, Typhoid Fever
+Pat_2525, Typhoid Fever
+Pat_2526, Malaria
+Pat_2527, Malaria
+Pat_2528, Typhoid Fever
+Pat_2529, Both
+Pat_2530, Typhoid Fever
+Pat_2531, Typhoid Fever
+Pat_2532, None
+Pat_2533, Typhoid Fever
+Pat_2534, Typhoid Fever
+Pat_2535, Both
+Pat_2536, Both
+Pat_2537, Typhoid Fever
+Pat_2538, None
+Pat_2539, Typhoid Fever
+Pat_2540, Typhoid Fever
+Pat_2541, Typhoid Fever
+Pat_2542, None
+Pat_2543, Typhoid Fever
+Pat_2544, None
+Pat_2545, None
+Pat_2546, Typhoid Fever
+Pat_2547, None
+Pat_2548, Typhoid Fever
+Pat_2549, Typhoid Fever
+Pat_2550, Typhoid Fever
+Pat_2551, None
+Pat_2552, Typhoid Fever
+Pat_2553,Malaria
+Pat_2554,Both
+Pat_2555,Both
+Pat_2556,Malaria
+Pat_2557,None
+Pat_2558,Malaria
+Pat_2559,Typhoid Fever
+Pat_2560,Malaria
+Pat_2561,Malaria
+Pat_2562,None
+Pat_2563,Malaria
+Pat_2564,Typhoid Fever
+Pat_2565,Typhoid Fever
+Pat_2566,None
+Pat_2567,Typhoid Fever
+Pat_2568,Both
+Pat_2569,Typhoid Fever
+Pat_2570,None
+Pat_2571,None
+Pat_2572,Malaria
+Pat_2573,Typhoid Fever
+Pat_2574,Malaria
+Pat_2575,Typhoid Fever
+Pat_2576,Malaria
+Pat_2577,Typhoid Fever
+Pat_2578,Typhoid Fever
+Pat_2579,Typhoid Fever
+Pat_2580,None
+Pat_2581,Typhoid Fever
+Pat_2582,None
+Pat_2583,Typhoid Fever
+Pat_2584,Typhoid Fever
+Pat_2585,Typhoid Fever
+Pat_2586,Typhoid Fever
+Pat_2587,Typhoid Fever
+Pat_2588,Typhoid Fever
+Pat_2589,Typhoid Fever
+Pat_2590,Typhoid Fever
+Pat_2591,Typhoid Fever
+Pat_2592,Typhoid Fever
+Pat_2593,None
+Pat_2594,Typhoid Fever
+Pat_2595,Typhoid Fever
+Pat_2596,None
+Pat_2597,Malaria
+Pat_2598,Both
+Pat_2599,Typhoid Fever
+Pat_2600,Malaria
+Pat_2601,Typhoid Fever
+Pat_2602,Both
+Pat_2603,Malaria
+Pat_2604,Malaria
+Pat_2605,Malaria
+Pat_2606,Typhoid Fever
+Pat_2607,Typhoid Fever
+Pat_2608,Typhoid Fever
+Pat_2609,Typhoid Fever
+Pat_2610,Typhoid Fever
+Pat_2611,None
+Pat_2612,None
+Pat_2613,Typhoid Fever
+Pat_2614,Typhoid Fever
+Pat_2615,Both
+Pat_2616,None
+Pat_2617,None
+Pat_2618,Typhoid Fever
+Pat_2619,None
+Pat_2620,Malaria
+Pat_2621,None
+Pat_2622,Both
+Pat_2623, Both
+Pat_2624, Both
+Pat_2625, Both
+Pat_2626,None
+Pat_2627,None
+Pat_2628, None
+Pat_2629, Malaria
+Pat_2630, Malaria
+Pat_2631, None
+Pat_2632, Both
+Pat_2633, Both
+Pat_2634, None
+Pat_2635, None
+Pat_2636, None
+Pat_2637, None
+Pat_2638, None
+Pat_2639, None
+Pat_2640, None
+Pat_2641, None
+Pat_2642, None
+Pat_2643, None
+Pat_2644, None
+Pat_2645, None
+Pat_2646, None
+Pat_2647, None
+Pat_2648, None
+Pat_2649, None
+Pat_2650, None
+Pat_2651,None
+Pat_2652,Typhoid Fever
+Pat_2653,Both
+Pat_2654,Both
+Pat_2655,None
+Pat_2656,None
+Pat_2657,None
+Pat_2658,None
+Pat_2659,None
+Pat_2660, None
+Pat_2661,None
+Pat_2662,None
+Pat_2663,None
+Pat_2664,None
+Pat_2665, None
+Pat_2666, Both
+Pat_2667, Both
+Pat_2668, Both
+Pat_2669, Both
+Pat_2670, Both
+Pat_2671, None
+Pat_2672, None
+Pat_2673, Both
+Pat_2674, Both
+Pat_2675, Both
+Pat_2676, None
+Pat_2677, Both
+Pat_2678, None
+Pat_2679, Both
+Pat_2680, None
+Pat_2681, None
+Pat_2682, Both
+Pat_2683, None
+Pat_2684, None
+Pat_2685, Both
+Pat_2686, None
+Pat_2687, Both
+Pat_2688, Both
+Pat_2689, None
+Pat_2690, Both
+Pat_2691, None
+Pat_2692, None
+Pat_2693, None
+Pat_2694, Both
+Pat_2695, Both
+Pat_2696, None
+Pat_2697, None
+Pat_2698, None
+Pat_2699, Both
+Pat_2700, None
+Pat_2701,Both
+Pat_2702,None
+Pat_2703,None
+Pat_2704,None
+Pat_2705,None
+Pat_2706,None
+Pat_2707,None
+Pat_2708,None
+Pat_2709,None
+Pat_2710,None
+Pat_2711,None
+Pat_2712,None
+Pat_2713,None
+Pat_2714,None
+Pat_2715,Both
+Pat_2716,None
+Pat_2717,None
+Pat_2718,None
+Pat_2719,None
+Pat_2720,None
+Pat_2721,None
+Pat_2722,None
+Pat_2723,None
+Pat_2724,Both
+Pat_2725,None
+Pat_2726,None
+Pat_2727,None
+Pat_2728,None
+Pat_2729,None
+Pat_2730,None
+Pat_2731,None
+Pat_2732,Both
+Pat_2733,None
+Pat_2734,None
+Pat_2735,Both
+Pat_2736,Both
+Pat_2737,Both
+Pat_2738,Both
+Pat_2739,None
+Pat_2740,None
+Pat_2741,None
+Pat_2742,None
+Pat_2743,None
+Pat_2744,None
+Pat_2745,Both
+Pat_2746,None
+Pat_2747,None
+Pat_2748,None
+Pat_2749,Both
+Pat_2750,Both
+Pat_2751,None
+Pat_2752,None
+Pat_2753,None
+Pat_2754,None
+Pat_2755,None
+Pat_2756,None
+Pat_2757,None
+Pat_2758,None
+Pat_2759,None
+Pat_2760,None
+Pat_2761,None
+Pat_2762,None
+Pat_2763,None
+Pat_2764,None
+Pat_2765,None
+Pat_2766,None
+Pat_2767,None
+Pat_2768,None
+Pat_2769,Both
+Pat_2770,None
+Pat_2771,None
+Pat_2772,None
+Pat_2773,None
+Pat_2774,None
+Pat_2775,None
+Pat_2776,None
+Pat_2777,None
+Pat_2778,None
+Pat_2779,None
+Pat_2780,None
+Pat_2781,None
+Pat_2782,None
+Pat_2783,None
+Pat_2784,None
+Pat_2785,None
+Pat_2786,None
+Pat_2787,None
+Pat_2788,None
+Pat_2789,None
+Pat_2790,None
+Pat_2791,None
+Pat_2792,None
+Pat_2793,None
+Pat_2794,None
+Pat_2795,Both
+Pat_2796,None
+Pat_2797,None
+Pat_2798,None
+Pat_2799,Both
+Pat_2800,Typhoid Fever
+Pat_2801,None
+Pat_2802,None
+Pat_2803,None
+Pat_2804,None
+Pat_2805,None
+Pat_2806,None
+Pat_2807,None
+Pat_2808,None
+Pat_2809,None
+Pat_2810,Both
+Pat_2811,None
+Pat_2812,None
+Pat_2813,None
+Pat_2814,None
+Pat_2815,None
+Pat_2816,None
+Pat_2817,None
+Pat_2818,None
+Pat_2819,None
+Pat_2820,Both
+Pat_2821,None
+Pat_2822,None
+Pat_2823,None
+Pat_2824,None
+Pat_2825,None
+Pat_2826,Both
+Pat_2827,Typhoid Fever
+Pat_2828,Typhoid Fever
+Pat_2829,None
+Pat_2830,Both
+Pat_2831,None
+Pat_2832,None
+Pat_2833,None
+Pat_2834,None
+Pat_2835,Both
+Pat_2836,None
+Pat_2837,Typhoid Fever
+Pat_2838,Both
+Pat_2839,None
+Pat_2840,None
+Pat_2841,Typhoid Fever
+Pat_2842,None
+Pat_2843,None
+Pat_2844,Typhoid Fever
+Pat_2845,None
+Pat_2846,None
+Pat_2847,Both
+Pat_2848,None
+Pat_2849,Both
+Pat_2850,Both
+Pat_2851,Both
+Pat_2852,Both
+Pat_2853,None
+Pat_2854,None
+Pat_2855,None
+Pat_2856,None
+Pat_2857,None
+Pat_2858,None
+Pat_2859,None
+Pat_2860,None
+Pat_2861,None
+Pat_2862,None
+Pat_2863,None
+Pat_2864,None
+Pat_2865,None
+Pat_2866,None
+Pat_2867,None
+Pat_2868,None
+Pat_2869,None
+Pat_2870,None
+Pat_2871,None
+Pat_2872,Both
+Pat_2873,Both
+Pat_2874,None
+Pat_2875,None
+Pat_2876,None
+Pat_2877,None
+Pat_2878,None
+Pat_2879,Both
+Pat_2880,Malaria
+Pat_2881,Typhoid Fever
+Pat_2882,None
+Pat_2883,Malaria
+Pat_2884,Both
+Pat_2885,Malaria
+Pat_2886,Typhoid Fever
+Pat_2887,None
+Pat_2888,Malaria
+Pat_2889,Typhoid Fever
+Pat_2890,Typhoid Fever
+Pat_2891,Both
+Pat_2892,Malaria
+Pat_2893,Malaria
+Pat_2894,Typhoid Fever
+Pat_2895,Both
+Pat_2896,None
+Pat_2897,Typhoid Fever
+Pat_2898,None
+Pat_2899,Both
+Pat_2900,Both
+Pat_2901,Both
+Pat_2902,None
+Pat_2903,Both
+Pat_2904,Malaria
+Pat_2905,Malaria
+Pat_2906,None
+Pat_2907,Typhoid Fever
+Pat_2908,Malaria
+Pat_2909,Malaria
+Pat_2910,Typhoid Fever
+Pat_2911,None
+Pat_2912,Both
+Pat_2913,Malaria
+Pat_2914,Typhoid Fever
+Pat_2915,Malaria
+Pat_2916,Malaria
+Pat_2917,Typhoid Fever
+Pat_2918,Typhoid Fever
+Pat_2919,None
+Pat_2920,Typhoid Fever
+Pat_2921,Both
+Pat_2922,Typhoid Fever
+Pat_2923,None
+Pat_2924,Typhoid Fever
+Pat_2925,Malaria
+Pat_2926,Malaria
+Pat_2927,None
+Pat_2928,None
+Pat_2929,None
+Pat_2930,None
+Pat_2931,None
+Pat_2932,None
+Pat_2933,None
+Pat_2934,None
+Pat_2935,None
+Pat_2936,None
+Pat_2937,None
+Pat_2938,None
+Pat_2939,None
+Pat_2940,None
+Pat_2941,None
+Pat_2942,None
+Pat_2943,None
+Pat_2944,None
+Pat_2945,None
+Pat_2946,None
+Pat_2947,None
+Pat_2948,None
+Pat_2949,None
+Pat_2950,None
+Pat_2951,None
+Pat_2952,None
+Pat_2953,None
+Pat_2954,None
+Pat_2955,None
+Pat_2956,None
+Pat_2957,None
+Pat_2958,None
+Pat_2959,None
+Pat_2960,None
+Pat_2961,None
+Pat_2962,None
+Pat_2963,None
+Pat_2964,None
+Pat_2965,None
+Pat_2966,None
+Pat_2967,None
+Pat_2968,None
+Pat_2969,None
+Pat_2970,None
+Pat_2971,None
+Pat_2972,None
+Pat_2973,None
+Pat_2974,None
+Pat_2975,None
+Pat_2976,None
+Pat_2977,None
+Pat_2978,None
+Pat_2979,None
+Pat_2980,Malaria
+Pat_2981,Both
+Pat_2982,None
+Pat_2983,Typhoid Fever
+Pat_2984,None
+Pat_2985,None
+Pat_2986,None
+Pat_2987,None
+Pat_2988,None
+Pat_2989,None
+Pat_2990,None
+Pat_2991,None
+Pat_2992,None
+Pat_2993,None
+Pat_2994,None
+Pat_2995,None
+Pat_2996,None
+Pat_2997,Typhoid Fever
+Pat_2998,None
+Pat_2999,Typhoid Fever
+Pat_3000,Typhoid Fever
+Pat_3001,None
+Pat_3002,Typhoid Fever
+Pat_3003,None
+Pat_3004,None
+Pat_3005,Malaria
+Pat_3006,None
+Pat_3007,None
+Pat_3008,None
+Pat_3009,None
+Pat_3010,None
+Pat_3011,None
+Pat_3012,None
+Pat_3013,None
+Pat_3014,None
+Pat_3015,None
+Pat_3016,None
+Pat_3017,None
+Pat_3018,None
+Pat_3019,Malaria
+Pat_3020,Both
+Pat_3021,Typhoid Fever
+Pat_3022,Typhoid Fever
+Pat_3023,Typhoid Fever
+Pat_3024,Both
+Pat_3025,Both
+Pat_3026,Both
+Pat_3027,Both
+Pat_3028,Both
+Pat_3029,None
+Pat_3030,Both
+Pat_3031,None
+Pat_3032,None
+Pat_3033,None
+Pat_3034,None
+Pat_3035,None
+Pat_3036,Both
+Pat_3037,None
+Pat_3038,None
+Pat_3039,None
+Pat_3040,Both
+Pat_3041,Both
+Pat_3042,None
+Pat_3043,None
+Pat_3044,Both
+Pat_3045,None
+Pat_3046,Both
+Pat_3047,Both
+Pat_3048,Typhoid Fever
+Pat_3049,Typhoid Fever
+Pat_3050,None
+Pat_3051,Both
+Pat_3052,Typhoid Fever
+Pat_3053, Malaria
+Pat_3054, Malaria
+Pat_3055, Malaria
+Pat_3056, Malaria
+Pat_3057,Typhoid Fever
+Pat_3058,Typhoid Fever
+Pat_3059,None
+Pat_3060, Malaria
+Pat_3061,Malaria
+Pat_3062,Malaria
+Pat_3063,None
+Pat_3064, Typhoid Fever
+Pat_3065, Typhoid Fever
+Pat_3066, Typhoid Fever
+Pat_3067, Both
+Pat_3068, Both
+Pat_3069, Both
+Pat_3070, Both
+Pat_3071, Both
+Pat_3072, Both
+Pat_3073, Typhoid Fever
+Pat_3074, Both
+Pat_3075, Both
+Pat_3076,Both
+Pat_3077, Both
+Pat_3078, Both
+Pat_3079, Both
+Pat_3080, Both
+Pat_3081,Both
+Pat_3082, Both
+Pat_3083, Both
+Pat_3084,None
+Pat_3085,Both
+Pat_3086,None
+Pat_3087,None
+Pat_3088,None
+Pat_3089,None
+Pat_3090,Both
+Pat_3091,None
+Pat_3092,None
+Pat_3093,None
+Pat_3094,None
+Pat_3095,None
+Pat_3096,Both
+Pat_3097,None
+Pat_3098,Both
+Pat_3099,None
+Pat_3100,None
+Pat_3101,None
+Pat_3102,None
+Pat_3103,None
+Pat_3104,None
+Pat_3105,None
+Pat_3106,None
+Pat_3107,None
+Pat_3108,None
+Pat_3109,None
+Pat_3110,None
+Pat_3111,None
+Pat_3112,None
+Pat_3113,None
+Pat_3114,None
+Pat_3115,None
+Pat_3116,None
+Pat_3117,None
+Pat_3118,None
+Pat_3119,None
+Pat_3120,None
+Pat_3121,None
+Pat_3122,Malaria
+Pat_3123,Malaria
+Pat_3124,Malaria
+Pat_3125,None
+Pat_3126,Malaria
+Pat_3127,Typhoid Fever
+Pat_3128,Malaria
+Pat_3129,Both
+Pat_3130,Typhoid Fever
+Pat_3131,Typhoid Fever
+Pat_3132,None
+Pat_3133,Typhoid Fever
+Pat_3134,Typhoid Fever
+Pat_3135,Typhoid Fever
+Pat_3136,None
+Pat_3137,None
+Pat_3138,None
+Pat_3139,None
+Pat_3140,None
+Pat_3141,None
+Pat_3142,None
+Pat_3143,None
+Pat_3144,None
+Pat_3145,None
+Pat_3146,None
+Pat_3147,Typhoid Fever
+Pat_3148,None
+Pat_3149,Both
+Pat_3150,None
+Pat_3151,None
+Pat_3152,None
+Pat_3153,None
+Pat_3154,None
+Pat_3155,None
+Pat_3156,None
+Pat_3157,None
+Pat_3158,None
+Pat_3159,None
+Pat_3160,None
+Pat_3161,None
+Pat_3162,Both
+Pat_3163,None
+Pat_3164,None
+Pat_3165,None
+Pat_3166,None
+Pat_3167,None
+Pat_3168,None
+Pat_3169,None
+Pat_3170,None
+Pat_3171,None
+Pat_3172,Typhoid Fever
+Pat_3173,None
+Pat_3174,None
+Pat_3175,Malaria
+Pat_3176,Malaria
+Pat_3177,Typhoid Fever
+Pat_3178,Malaria
+Pat_3179,None
+Pat_3180,Malaria
+Pat_3181,Both
+Pat_3182,None
+Pat_3183,None
+Pat_3184,Malaria
+Pat_3185,None
+Pat_3186,None
+Pat_3187,Both
+Pat_3188,Both
+Pat_3189,Both
+Pat_3190,None
+Pat_3191,Malaria
+Pat_3192,Both
+Pat_3193,Both
+Pat_3194,Both
+Pat_3195,Both
+Pat_3196,Both
+Pat_3197,Both
+Pat_3198,Both
+Pat_3199,Both
+Pat_3200,Both
+Pat_3201,Both
+Pat_3202,Both
+Pat_3203,Both
+Pat_3204,Both
+Pat_3205,Both
+Pat_3206,Both
+Pat_3207,Both
+Pat_3208,Both
+Pat_3209,Both
+Pat_3210,Both
+Pat_3211,Both
+Pat_3212,Both
+Pat_3213,Both
+Pat_3214,Both
+Pat_3215,Both
+Pat_3216,Both
+Pat_3217,Both
+Pat_3218,Both
+Pat_3219,Both
+Pat_3220,Both
+Pat_3221,Both
+Pat_3222,Both
+Pat_3223,Both
+Pat_3224,Both
+Pat_3225,Both
+Pat_3226,Both
+Pat_3227,Both
+Pat_3228,Both
+Pat_3229,Both
+Pat_3230,Both
+Pat_3231,Both
+Pat_3232,Both
+Pat_3233,Both
+Pat_3234,Both
+Pat_3235,Both
+Pat_3236,None
+Pat_3237,Both
+Pat_3238,Both
+Pat_3239,Both
+Pat_3240,Both
+Pat_3241,Both
+Pat_3242,Malaria
+Pat_3243,Typhoid Fever
+Pat_3244,Typhoid Fever
+Pat_3245,Typhoid Fever
+Pat_3246,Typhoid Fever
+Pat_3247,Typhoid Fever
+Pat_3248,Typhoid Fever
+Pat_3249,Typhoid Fever
+Pat_3250,Typhoid Fever
+Pat_3251,Malaria
+Pat_3252,Typhoid Fever
+Pat_3253,Typhoid Fever
+Pat_3254,Typhoid Fever
+Pat_3255,Typhoid Fever
+Pat_3256,Typhoid Fever
+Pat_3257,Typhoid Fever
+Pat_3258,Typhoid Fever
+Pat_3259,Typhoid Fever
+Pat_3260,Typhoid Fever
+Pat_3261,Typhoid Fever
+Pat_3262,Typhoid Fever
+Pat_3263,Typhoid Fever
+Pat_3264,Typhoid Fever
+Pat_3265,Typhoid Fever
+Pat_3266,Typhoid Fever
+Pat_3267,Typhoid Fever
+Pat_3268,Typhoid Fever
+Pat_3269,None
+Pat_3270,None
+Pat_3271,Typhoid Fever
+Pat_3272,Typhoid Fever
+Pat_3273,Typhoid Fever
+Pat_3274,Malaria
+Pat_3275,Both
+Pat_3276,Typhoid Fever
+Pat_3277,Both
+Pat_3278,Typhoid Fever
+Pat_3279,Typhoid Fever
+Pat_3280,Both
+Pat_3281,Both
+Pat_3282,None
+Pat_3283,Typhoid Fever
+Pat_3284,None
+Pat_3285,Both
+Pat_3286,None
+Pat_3287,Both
+Pat_3288,None
+Pat_3289,Typhoid Fever
+Pat_3290,Typhoid Fever
+Pat_3291,Both
+Pat_3292,Both
+Pat_3293,Both
+Pat_3294,Both
+Pat_3295,Both
+Pat_3296,Both
+Pat_3297,Both
+Pat_3298,Both
+Pat_3299,Both
+Pat_3300,Both
+Pat_3301,Both
+Pat_3302,Both
+Pat_3303,Both
+Pat_3304,Both
+Pat_3305,Both
+Pat_3306,Both
+Pat_3307,Both
+Pat_3308,Both
+Pat_3309,Both
+Pat_3310,Both
+Pat_3311,Both
+Pat_3312,Both
+Pat_3313,Both
+Pat_3314,Both
+Pat_3315,Both
+Pat_3316,Both
+Pat_3317,Both
+Pat_3318,Both
+Pat_3319,Both
+Pat_3320,Both
+Pat_3321,Both
+Pat_3322,Both
+Pat_3323,Both
+Pat_3324,Both
+Pat_3325,Both
+Pat_3326,Both
+Pat_3327,Both
+Pat_3328,Both
+Pat_3329,Both
+Pat_3330,Both
+Pat_3331,Both
+Pat_3332,Both
+Pat_3333,Both
+Pat_3334,Both
+Pat_3335,Both
+Pat_3336,None
+Pat_3337,Both
+Pat_3338,Both
+Pat_3339,Both
+Pat_3340,Both
+Pat_3341,Both
+Pat_3342,Both
+Pat_3343,Both
+Pat_3344,Both
+Pat_3345,Both
+Pat_3346,Both
+Pat_3347,Both
+Pat_3348,Both
+Pat_3349,Both
+Pat_3350,Both
+Pat_3351,Both
+Pat_3352,None
+Pat_3353,Typhoid Fever
+Pat_3354,Both
+Pat_3355,Both
+Pat_3356,Both
+Pat_3357,Typhoid Fever
+Pat_3358,Typhoid Fever
+Pat_3359,None
+Pat_3360,Both
+Pat_3361,Both
+Pat_3362,Both
+Pat_3363,Both
+Pat_3364,None
+Pat_3365,Typhoid Fever
+Pat_3366,Malaria
+Pat_3367,None
+Pat_3368,Typhoid Fever
+Pat_3369,Both
+Pat_3370,Typhoid Fever
+Pat_3371,None
+Pat_3372,Both
+Pat_3373,Both
+Pat_3374,Typhoid Fever
+Pat_3375,Typhoid Fever
+Pat_3376,Typhoid Fever
+Pat_3377,Typhoid Fever
+Pat_3378,None
+Pat_3379,None
+Pat_3380,None
+Pat_3381,Typhoid Fever
+Pat_3382,Typhoid Fever
+Pat_3383,Both
+Pat_3384,Typhoid Fever
+Pat_3385,None
+Pat_3386,Malaria
+Pat_3387,Both
+Pat_3388,Both
+Pat_3389,Typhoid Fever
+Pat_3390,Typhoid Fever
+Pat_3391,Malaria
+Pat_3392,Both
+Pat_3393,Both
+Pat_3394,Both
+Pat_3395,Both
+Pat_3396,Both
+Pat_3397,Both
+Pat_3398,Both
+Pat_3399,Both
+Pat_3400,Both
+Pat_3401,Both
+Pat_3402,Both
+Pat_3403,Both
+Pat_3404,Both
+Pat_3405,Both
+Pat_3406,Both
+Pat_3407,Both
+Pat_3408,Both
+Pat_3409,Both
+Pat_3410,Both
+Pat_3411,Both
+Pat_3412,Both
+Pat_3413,Both
+Pat_3414,Both
+Pat_3415,Both
+Pat_3416,Both
+Pat_3417,Both
+Pat_3418,Both
+Pat_3419,Both
+Pat_3420,Both
+Pat_3421,Both
+Pat_3422,Both
+Pat_3423,Both
+Pat_3424,Both
+Pat_3425,Both
+Pat_3426,Both
+Pat_3427,Both
+Pat_3428,Both
+Pat_3429,Both
+Pat_3430,Both
+Pat_3431,None
+Pat_3432,None
+Pat_3433,None
+Pat_3434,None
+Pat_3435,None
+Pat_3436,Both
+Pat_3437,Both
+Pat_3438,Both
+Pat_3439,Both
+Pat_3440,Both
+Pat_3441,Both
+Pat_3442,Both
+Pat_3443,Both
+Pat_3444,Both
+Pat_3445,Both
+Pat_3446,Both
+Pat_3447,None
+Pat_3448,Both
+Pat_3449,Both
+Pat_3450,Both
+Pat_3451,Both
+Pat_3452,Both
+Pat_3453,None
+Pat_3454,Both
+Pat_3455,None
+Pat_3456,None
+Pat_3457,Both
+Pat_3458,Both
+Pat_3459,Both
+Pat_3460,Both
+Pat_3461,None
+Pat_3462,Both
+Pat_3463,None
+Pat_3464,Both
+Pat_3465,None
+Pat_3466,None
+Pat_3467,None
+Pat_3468,Both
+Pat_3469,Both
+Pat_3470,None
+Pat_3471,Both
+Pat_3472,Both
+Pat_3473,Both
+Pat_3474,Both
+Pat_3475,Both
+Pat_3476,Both
+Pat_3477,Both
+Pat_3478,Both
+Pat_3479,Both
+Pat_3480,None
+Pat_3481,Both
+Pat_3482,Both
+Pat_3483,Both
+Pat_3484,Both
+Pat_3485,None
+Pat_3486,None
+Pat_3487,None
+Pat_3488,None
+Pat_3489,Both
+Pat_3490,None
+Pat_3491,None
+Pat_3492,Both
+Pat_3493,Both
+Pat_3494,Both
+Pat_3495,None
+Pat_3496,None
+Pat_3497,Both
+Pat_3498,None
+Pat_3499,Both
+Pat_3500,Both
+Pat_3501,None
+Pat_3502,None
+Pat_3503,None
+Pat_3504,None
+Pat_3505,None
+Pat_3506,None
+Pat_3507,Both
+Pat_3508,None
+Pat_3509,Both
+Pat_3510,None
+Pat_3511,Both
+Pat_3512,None
+Pat_3513,None
+Pat_3514,Both
+Pat_3515,None
+Pat_3516,None
+Pat_3517,Both
+Pat_3518,None
+Pat_3519,None
+Pat_3520,None
+Pat_3521,None
+Pat_3522,None
+Pat_3523,None
+Pat_3524,Both
+Pat_3525,None
+Pat_3526,None
+Pat_3527,None
+Pat_3528,Both
+Pat_3529,None
+Pat_3530,None
+Pat_3531,None
+Pat_3532,Both
+Pat_3533,None
+Pat_3534,Both
+Pat_3535,None
+Pat_3536,None
+Pat_3537,None
+Pat_3538,None
+Pat_3539,None
+Pat_3540,None
+Pat_3541,None
+Pat_3542,None
+Pat_3543,Both
+Pat_3544,None
+Pat_3545,None
+Pat_3546,None
+Pat_3547,Both
+Pat_3548,None
+Pat_3549,None
+Pat_3550,None
+Pat_3551,None
+Pat_3552,None
+Pat_3553,None
+Pat_3554,None
+Pat_3555,None
+Pat_3556,None
+Pat_3557,None
+Pat_3558,None
+Pat_3559,None
+Pat_3560,None
+Pat_3561,None
+Pat_3562,None
+Pat_3563,None
+Pat_3564,None
+Pat_3565,None
+Pat_3566,None
+Pat_3567,None
+Pat_3568,None
+Pat_3569,None
+Pat_3570,None
+Pat_3571,None
+Pat_3572,None
+Pat_3573,None
+Pat_3574,None
+Pat_3575,None
+Pat_3576,None
+Pat_3577,None
+Pat_3578,None
+Pat_3579,Both
+Pat_3580,Both
+Pat_3581,Both
+Pat_3582,None
+Pat_3583,None
+Pat_3584,None
+Pat_3585,None
+Pat_3586,None
+Pat_3587,None
+Pat_3588,None
+Pat_3589,None
+Pat_3590,None
+Pat_3591,Both
+Pat_3592,None
+Pat_3593,None
+Pat_3594,None
+Pat_3595,None
+Pat_3596,None
+Pat_3597,None
+Pat_3598,None
+Pat_3599,None
+Pat_3600,None
+Pat_3601,None
+Pat_3602,None
+Pat_3603,None
+Pat_3604,None
+Pat_3605,None
+Pat_3606,None
+Pat_3607,None
+Pat_3608,None
+Pat_3609,None
+Pat_3610,None
+Pat_3611,None
+Pat_3612,None
+Pat_3613,None
+Pat_3614,None
+Pat_3615,None
+Pat_3616,None
+Pat_3617,None
+Pat_3618,None
+Pat_3619,None
+Pat_3620,None
+Pat_3621,None
+Pat_3622,None
+Pat_3623,None
+Pat_3624,None
+Pat_3625,None
+Pat_3626,None
+Pat_3627,None
+Pat_3628,None
+Pat_3629,None
+Pat_3630,None
+Pat_3631,None
+Pat_3632,Both
+Pat_3633,None
+Pat_3634,None
+Pat_3635,None
+Pat_3636,Typhoid Fever
+Pat_3637,None
+Pat_3638,Typhoid Fever
+Pat_3639,None
+Pat_3640,None
+Pat_3641,None
+Pat_3642,None
+Pat_3643,None
+Pat_3644,None
+Pat_3645,Typhoid Fever
+Pat_3646,Both
+Pat_3647,Typhoid Fever
+Pat_3648,None
+Pat_3649,None
+Pat_3650,Typhoid Fever
+Pat_3651,None
+Pat_3652,None
+Pat_3653,None
+Pat_3654,None
+Pat_3655,None
+Pat_3656,Both
+Pat_3657,None
+Pat_3658,None
+Pat_3659,None
+Pat_3660,None
+Pat_3661,None
+Pat_3662,None
+Pat_3663,None
+Pat_3664,None
+Pat_3665,None
+Pat_3666,None
+Pat_3667,None
+Pat_3668,None
+Pat_3669,None
+Pat_3670,None
+Pat_3671,None
+Pat_3672,None
+Pat_3673,None
+Pat_3674,None
+Pat_3675,None
+Pat_3676,None
+Pat_3677,None
+Pat_3678,None
+Pat_3679,None
+Pat_3680,Malaria
+Pat_3681,None
+Pat_3682,Typhoid Fever
+Pat_3683,Typhoid Fever
+Pat_3684,Typhoid Fever
+Pat_3685,None
+Pat_3686,None
+Pat_3687,None
+Pat_3688,None
+Pat_3689,None
+Pat_3690,None
+Pat_3691,None
+Pat_3692,None
+Pat_3693,None
+Pat_3694,None
+Pat_3695,None
+Pat_3696,None
+Pat_3697,None
+Pat_3698,None
+Pat_3699,None
+Pat_3700,Typhoid Fever
+Pat_3701,None
+Pat_3702,None
+Pat_3703,None
+Pat_3704,None
+Pat_3705,None
+Pat_3706,None
+Pat_3707,None
+Pat_3708,None
+Pat_3709,None
+Pat_3710,None
+Pat_3711,None
+Pat_3712,Typhoid Fever
+Pat_3713,None
+Pat_3714,None
+Pat_3715,None
+Pat_3716,None
+Pat_3717,None
+Pat_3718,None
+Pat_3719,None
+Pat_3720,None
+Pat_3721,None
+Pat_3722,None
+Pat_3723,None
+Pat_3724,None
+Pat_3725,None
+Pat_3726,None
+Pat_3727,None
+Pat_3728,None
+Pat_3729,None
+Pat_3730,None
+Pat_3731,None
+Pat_3732,None
+Pat_3733,None
+Pat_3734,None
+Pat_3735,None
+Pat_3736,None
+Pat_3737,None
+Pat_3738,None
+Pat_3739,None
+Pat_3740,None
+Pat_3741,None
+Pat_3742,None
+Pat_3743,None
+Pat_3744,None
+Pat_3745,None
+Pat_3746,None
+Pat_3747,None
+Pat_3748,None
+Pat_3749,None
+Pat_3750,None
+Pat_3751,None
+Pat_3752,None
+Pat_3753,None
+Pat_3754,None
+Pat_3755,None
+Pat_3756,None
+Pat_3757,None
+Pat_3758,None
+Pat_3759,None
+Pat_3760,None
+Pat_3761,None
+Pat_3762,None
+Pat_3763,None
+Pat_3764,None
+Pat_3765,Both
+Pat_3766,None
+Pat_3767,Both
+Pat_3768,None
+Pat_3769,None
+Pat_3770,None
+Pat_3771,None
+Pat_3772,None
+Pat_3773,None
+Pat_3774,None
+Pat_3775,None
+Pat_3776,None
+Pat_3777,None
+Pat_3778,None
+Pat_3779,None
+Pat_3780,None
+Pat_3781,None
+Pat_3782,None
+Pat_3783,None
+Pat_3784,None
+Pat_3785,None
+Pat_3786,None
+Pat_3787,None
+Pat_3788,None
+Pat_3789,None
+Pat_3790,None
+Pat_3791,None
+Pat_3792,None
+Pat_3793,None
+Pat_3794,None
+Pat_3795,None
+Pat_3796,None
+Pat_3797,None
+Pat_3798,None
+Pat_3799,None
+Pat_3800,None
+Pat_3801,None
+Pat_3802,None
+Pat_3803,None
+Pat_3804,None
+Pat_3805,None
+Pat_3806,None
+Pat_3807,None
+Pat_3808,None
+Pat_3809,None
+Pat_3810,None
+Pat_3811,None
+Pat_3812,None
+Pat_3813,Malaria
+Pat_3814,None
+Pat_3815,None
+Pat_3816,None
+Pat_3817,None
+Pat_3818,Both
+Pat_3819,Both
+Pat_3820,None
+Pat_3821,None
+Pat_3822,Malaria
+Pat_3823,None
+Pat_3824,None
+Pat_3825,None
+Pat_3826,None
+Pat_3827,None
+Pat_3828,None
+Pat_3829,Both
+Pat_3830, Typhoid Fever
+Pat_3831, Typhoid Fever
+Pat_3832, Typhoid Fever
+Pat_3833, Typhoid Fever
+Pat_3834, Typhoid Fever
+Pat_3835, Typhoid Fever
+Pat_3836, Typhoid Fever
+Pat_3837, Typhoid Fever
+Pat_3838, Typhoid Fever
+Pat_3839, Typhoid Fever
+Pat_3840, Typhoid Fever
+Pat_3841, Typhoid Fever
+Pat_3842, None
+Pat_3843, Typhoid Fever
+Pat_3844, Typhoid Fever
+Pat_3845, Typhoid Fever
+Pat_3846, Typhoid Fever
+Pat_3847, Typhoid Fever
+Pat_3848, None
+Pat_3849,None
+Pat_3850,None
+Pat_3851,None
+Pat_3852,None
+Pat_3853,None
+Pat_3854,None
+Pat_3855,None
+Pat_3856,None
+Pat_3857,None
+Pat_3858,None
+Pat_3859,None
+Pat_3860,None
+Pat_3861,None
+Pat_3862,None
+Pat_3863,None
+Pat_3864,None
+Pat_3865,None
+Pat_3866,None
+Pat_3867,None
+Pat_3868,None
+Pat_3869,None
+Pat_3870,None
+Pat_3871,None
+Pat_3872,None
+Pat_3873,None
+Pat_3874,None
+Pat_3875,None
+Pat_3876,None
+Pat_3877,None
+Pat_3878,None
+Pat_3879,None
+Pat_3880,None
+Pat_3881,None
+Pat_3882,None
+Pat_3883,None
+Pat_3884,None
+Pat_3885,Typhoid Fever
+Pat_3886,Both
+Pat_3887,Malaria
+Pat_3888,Malaria
+Pat_3889,Typhoid Fever
+Pat_3890,Typhoid Fever
+Pat_3891,Both
+Pat_3892,Both
+Pat_3893,None
+Pat_3894,None
+Pat_3895,Typhoid Fever
+Pat_3896,None
+Pat_3897,None
+Pat_3898,None
+Pat_3899,None
+Pat_3900,None
+Pat_3901,None
+Pat_3902,None
+Pat_3903,None
+Pat_3904,None
+Pat_3905,None
+Pat_3906,Both
+Pat_3907,Both
+Pat_3908,Both
+Pat_3909,Both
+Pat_3910,None
+Pat_3911,Both
+Pat_3912,None
+Pat_3913,None
+Pat_3914,Both
+Pat_3915,None
+Pat_3916,None
+Pat_3917,None
+Pat_3918,None
+Pat_3919,None
+Pat_3920,None
+Pat_3921,Both
+Pat_3922,None
+Pat_3923,None
+Pat_3924,None
+Pat_3925,None
+Pat_3926,None
+Pat_3927,None
+Pat_3928,None
+Pat_3929,None
+Pat_3930,None
+Pat_3931,None
+Pat_3932,None
+Pat_3933,None
+Pat_3934,None
+Pat_3935,None
+Pat_3936,None
+Pat_3937,None
+Pat_3938,None
+Pat_3939,None
+Pat_3940,None
+Pat_3941,None
+Pat_3942,None
+Pat_3943,None
+Pat_3944,None
+Pat_3945,Both
+Pat_3946,None
+Pat_3947,None
+Pat_3948,None
+Pat_3949,None
+Pat_3950,None
+Pat_3951,None
+Pat_3952,None
+Pat_3953,None
+Pat_3954,None
+Pat_3955,None
+Pat_3956,None
+Pat_3957,None
+Pat_3958,None
+Pat_3959,None
+Pat_3960,None
+Pat_3961,None
+Pat_3962,None
+Pat_3963,None
+Pat_3964,None
+Pat_3965,None
+Pat_3966,None
+Pat_3967,Both
+Pat_3968,None
+Pat_3969,None
+Pat_3970,None
+Pat_3971,None
+Pat_3972,Both
+Pat_3973,Both
+Pat_3974,None
+Pat_3975,None
+Pat_3976,None
+Pat_3977,None
+Pat_3978,None
+Pat_3979,None
+Pat_3980,None
+Pat_3981,Both
+Pat_3982,None
+Pat_3983,None
+Pat_3984,None
+Pat_3985,None
+Pat_3986,None
+Pat_3987,None
+Pat_3988,None
+Pat_3989,None
+Pat_3990,None
+Pat_3991,None
+Pat_3992,None
+Pat_3993,None
+Pat_3994,Both
+Pat_3995,None
+Pat_3996,Both
+Pat_3997,None
+Pat_3998,None
+Pat_3999,None
+Pat_4000,None
+Pat_4001,None
+Pat_4002,Malaria
+Pat_4003,Malaria
+Pat_4004,None
+Pat_4005,None
+Pat_4006,None
+Pat_4007,None
+Pat_4008,None
+Pat_4009,None
+Pat_4010,None
+Pat_4011,None
+Pat_4012,None
+Pat_4013,None
+Pat_4014, Typhoid Fever
+Pat_4015, Malaria
+Pat_4016,None
+Pat_4017, Both
+Pat_4018,None
+Pat_4019,None
+Pat_4020,Both
+Pat_4021,None
+Pat_4022, Typhoid Fever
+Pat_4023, Malaria
+Pat_4024, None
+Pat_4025, None
+Pat_4026, Malaria
+Pat_4027, None
+Pat_4028,Typhoid Fever
+Pat_4029,None
+Pat_4030,None
+Pat_4031, Typhoid Fever
+Pat_4032,Typhoid Fever
+Pat_4033,Typhoid Fever
+Pat_4034, Typhoid Fever
+Pat_4035,Typhoid Fever
+Pat_4036,None
+Pat_4037, Malaria
+Pat_4038, Typhoid Fever
+Pat_4039,None
+Pat_4040,None
+Pat_4041,None
+Pat_4042,Malaria
+Pat_4043,None
+Pat_4044,None
+Pat_4045,Malaria
+Pat_4046,None
+Pat_4047,Both
+Pat_4048,Typhoid Fever
+Pat_4049, Typhoid Fever
+Pat_4050, Malaria
+Pat_4051,None
+Pat_4052,Both
+Pat_4053,None
+Pat_4054,Both
+Pat_4055,Both
+Pat_4056,None
+Pat_4057,None
+Pat_4058,Malaria
+Pat_4059,None
+Pat_4060,None
+Pat_4061,None
+Pat_4062,None
+Pat_4063,None
+Pat_4064,None
+Pat_4065,None
+Pat_4066,None
+Pat_4067,None
+Pat_4068,Both
+Pat_4069,None
+Pat_4070,Both
+Pat_4071,None
+Pat_4072,None
+Pat_4073,None
+Pat_4074,Both
+Pat_4075,None
+Pat_4076,None
+Pat_4077,None
+Pat_4078,None
+Pat_4079,None
+Pat_4080,None
+Pat_4081,None
+Pat_4082,None
+Pat_4083,None
+Pat_4084,None
+Pat_4085,None
+Pat_4086,Both
+Pat_4087,None
+Pat_4088,None
+Pat_4089,None
+Pat_4090,None
+Pat_4091,None
+Pat_4092,None
+Pat_4093,None
+Pat_4094, Typhoid Fever
+Pat_4095,None
+Pat_4096,None
+Pat_4097,None
+Pat_4098,None
+Pat_4099,None
+Pat_4100,None
+Pat_4101,Typhoid Fever
+Pat_4102,None
+Pat_4103,None
+Pat_4104,None
+Pat_4105,None
+Pat_4106, None
+Pat_4107, None
+Pat_4108, None
+Pat_4109,None
+Pat_4110,Both
+Pat_4111, Both
+Pat_4112, None
+Pat_4113, None
+Pat_4114, None
+Pat_4115, None
+Pat_4116, None
+Pat_4117, None
+Pat_4118, None
+Pat_4119, Both
+Pat_4120, None
+Pat_4121, None
+Pat_4122, None
+Pat_4123, Typhoid Fever
+Pat_4124, None
+Pat_4125, None
+Pat_4126, None
+Pat_4127, Both
+Pat_4128, None
+Pat_4129, None
+Pat_4130, None
+Pat_4131, None
+Pat_4132, None
+Pat_4133, None
+Pat_4134, None
+Pat_4135, None
+Pat_4136, None
+Pat_4137, None
+Pat_4138, None
+Pat_4139, None
+Pat_4140, None
+Pat_4141, None
+Pat_4142, None
+Pat_4143, None
+Pat_4144, None
+Pat_4145, None
+Pat_4146, None
+Pat_4147, None
+Pat_4148, None
+Pat_4149, None
+Pat_4150, None
+Pat_4151,None
+Pat_4152,None
+Pat_4153,Malaria
+Pat_4154,None
+Pat_4155,None
+Pat_4156,None
+Pat_4157,None
+Pat_4158,None
+Pat_4159,None
+Pat_4160,None
+Pat_4161,Both
+Pat_4162,None
+Pat_4163,Both
+Pat_4164,None
+Pat_4165,None
+Pat_4166,None
+Pat_4167,None
+Pat_4168,None
+Pat_4169,None
+Pat_4170,None
+Pat_4171,None
+Pat_4172,None
+Pat_4173,None
+Pat_4174,None
+Pat_4175,None
+Pat_4176,None
+Pat_4177,None
+Pat_4178,None
+Pat_4179,None
+Pat_4180,None
+Pat_4181,None
+Pat_4182,None
+Pat_4183,None
+Pat_4184,None
+Pat_4185,None
+Pat_4186,None
+Pat_4187,None
+Pat_4188,None
+Pat_4189,None
+Pat_4190,None
+Pat_4191,None
+Pat_4192,Malaria
+Pat_4193,None
+Pat_4194,Both
+Pat_4195,Typhoid Fever
+Pat_4196,Malaria
+Pat_4197,Typhoid Fever
+Pat_4198,None
+Pat_4199,None
+Pat_4200,Malaria
+Pat_4201,Both
+Pat_4202,Malaria
+Pat_4203,None
+Pat_4204,Malaria
+Pat_4205,Both
+Pat_4206,None
+Pat_4207,None
+Pat_4208,Both
+Pat_4209,None
+Pat_4210,Both
+Pat_4211,None
+Pat_4212,Malaria
+Pat_4213,None
+Pat_4214,None
+Pat_4215,None
+Pat_4216,None
+Pat_4217,None
+Pat_4218,Typhoid Fever
+Pat_4219,None
+Pat_4220,Both
+Pat_4221,None
+Pat_4222,None
+Pat_4223,None
+Pat_4224,Malaria
+Pat_4225,None
+Pat_4226,None
+Pat_4227,Malaria
+Pat_4228,None
+Pat_4229,None
+Pat_4230,None
+Pat_4231,None
+Pat_4232,None
+Pat_4233,None
+Pat_4234,None
+Pat_4235,None
+Pat_4236,None
+Pat_4237,Typhoid Fever
+Pat_4238,Malaria
+Pat_4239,Malaria
+Pat_4240,None
+Pat_4241,None
+Pat_4242,Malaria
+Pat_4243,Typhoid Fever
+Pat_4244,Both
+Pat_4245,Malaria
+Pat_4246,Malaria
+Pat_4247,None
+Pat_4248,Typhoid Fever
+Pat_4249,None
+Pat_4250,Malaria
+Pat_4251,Typhoid Fever
+Pat_4252,Both
+Pat_4253,None
+Pat_4254,None
+Pat_4255,Malaria
+Pat_4256,None
+Pat_4257,None
+Pat_4258,Typhoid Fever
+Pat_4259,Malaria
+Pat_4260,None
+Pat_4261,Malaria
+Pat_4262,None
+Pat_4263,None
+Pat_4264,Both
+Pat_4265,None
+Pat_4266,None
+Pat_4267,None
+Pat_4268,Typhoid Fever
+Pat_4269,Typhoid Fever
+Pat_4270,None
+Pat_4271,None
+Pat_4272,Malaria
+Pat_4273,None
+Pat_4274, Malaria
+Pat_4275,Malaria
+Pat_4276,None
+Pat_4277,Malaria
+Pat_4278,Malaria
+Pat_4279,None
+Pat_4280,None
+Pat_4281, None
+Pat_4282, None
+Pat_4283,None
+Pat_4284,Malaria
+Pat_4285, None
+Pat_4286,None
+Pat_4287,None
+Pat_4288, None
+Pat_4289,Malaria
+Pat_4290, Typhoid Fever
+Pat_4291,None
+Pat_4292,None
+Pat_4293,Malaria
+Pat_4294,None
+Pat_4295, Typhoid Fever
+Pat_4296, None
+Pat_4297, Typhoid Fever
+Pat_4298,None
+Pat_4299,Both
+Pat_4300,None
+Pat_4301,None
+Pat_4302,None
+Pat_4303,None
+Pat_4304,Malaria
+Pat_4305,Malaria
+Pat_4306,Malaria
+Pat_4307,Malaria
+Pat_4308,Both
+Pat_4309,Malaria
+Pat_4310,None
+Pat_4311,Malaria
+Pat_4312,None
+Pat_4313,None
+Pat_4314,None
+Pat_4315,None
+Pat_4316,None
+Pat_4317,None
+Pat_4318,None
+Pat_4319,None
+Pat_4320,None
+Pat_4321,Both
+Pat_4322,None
+Pat_4323,None
+Pat_4324,None
+Pat_4325,Both
+Pat_4326,Malaria
+Pat_4327,Typhoid Fever
+Pat_4328,None
+Pat_4329,None
+Pat_4330,None
+Pat_4331,Both
+Pat_4332,None
+Pat_4333,None
+Pat_4334,None
+Pat_4335,Both
+Pat_4336,Malaria
+Pat_4337,Malaria
+Pat_4338,Typhoid Fever
+Pat_4339,None
+Pat_4340,None
+Pat_4341,None
+Pat_4342,None
+Pat_4343,None
+Pat_4344,None
+Pat_4345,None
+Pat_4346,None
+Pat_4347,None
+Pat_4348,None
+Pat_4349,None
+Pat_4350,None
+Pat_4351,None
+Pat_4352,Both
+Pat_4353,None
+Pat_4354,None
+Pat_4355,None
+Pat_4356,None
+Pat_4357,None
+Pat_4358,Malaria
+Pat_4359,None
+Pat_4360,Malaria
+Pat_4361,Malaria
+Pat_4362,None
+Pat_4363,None
+Pat_4364,None
+Pat_4365,None
+Pat_4366,None
+Pat_4367,Both
+Pat_4368,None
+Pat_4369,Typhoid Fever
+Pat_4370,None
+Pat_4371,Typhoid Fever
+Pat_4372,None
+Pat_4373,None
+Pat_4374,Malaria
+Pat_4375,Malaria
+Pat_4376,Malaria
+Pat_4377,None
+Pat_4378,None
+Pat_4379,Both
+Pat_4380,Malaria
+Pat_4381,None
+Pat_4382,Typhoid Fever
+Pat_4383,None
+Pat_4384,None
+Pat_4385,None
+Pat_4386,None
+Pat_4387,None
+Pat_4388,None
+Pat_4389,None
+Pat_4390,None
+Pat_4391,None
+Pat_4392,None
+Pat_4393,None
+Pat_4394,None
+Pat_4395,None
+Pat_4396,Malaria
+Pat_4397,Typhoid Fever
+Pat_4398,None
+Pat_4399,Malaria
+Pat_4400,None
+Pat_4401,None
+Pat_4402,Malaria
+Pat_4403,Typhoid Fever
+Pat_4404,Typhoid Fever
+Pat_4405,None
+Pat_4406,None
+Pat_4407,None
+Pat_4408,None
+Pat_4409,Typhoid Fever
+Pat_4410,None
+Pat_4411,None
+Pat_4412,None
+Pat_4413,None
+Pat_4414,None
+Pat_4415,None
+Pat_4416,None
+Pat_4417,None
+Pat_4418,None
+Pat_4419,None
+Pat_4420,Typhoid Fever
+Pat_4421,Both
+Pat_4422,None
+Pat_4423,None
+Pat_4424,None
+Pat_4425,None
+Pat_4426,Malaria
+Pat_4427,Malaria
+Pat_4428,Malaria
+Pat_4429,None
+Pat_4430,None
+Pat_4431,None
+Pat_4432,None
+Pat_4433,None
+Pat_4434,None
+Pat_4435,Malaria
+Pat_4436,Malaria
+Pat_4437,None
+Pat_4438,None
+Pat_4439,None
+Pat_4440,None
+Pat_4441,Malaria
+Pat_4442,None
+Pat_4443,None
+Pat_4444,None
+Pat_4445,Typhoid Fever
+Pat_4446,Malaria
+Pat_4447,None
+Pat_4448,None
+Pat_4449,None
+Pat_4450,None
+Pat_4451,Malaria
+Pat_4452,None
+Pat_4453,None
+Pat_4454,None
+Pat_4455,None
+Pat_4456,None
+Pat_4457,Malaria
+Pat_4458,Malaria
+Pat_4459,None
+Pat_4460,None
+Pat_4461,None
+Pat_4462,Malaria
+Pat_4463,None
+Pat_4464,None
+Pat_4465,Malaria
+Pat_4466,Malaria
+Pat_4467,Malaria
+Pat_4468,None
+Pat_4469,None
+Pat_4470,Malaria
+Pat_4471,Malaria
+Pat_4472,Malaria
+Pat_4473,Malaria
+Pat_4474,Malaria
+Pat_4475,None
+Pat_4476,Typhoid Fever
+Pat_4477,Typhoid Fever
+Pat_4478,Typhoid Fever
+Pat_4479,Malaria
+Pat_4480,Malaria
+Pat_4481,Malaria
+Pat_4482,Typhoid Fever
+Pat_4483,None
+Pat_4484,Malaria
+Pat_4485,Malaria
+Pat_4486,Typhoid Fever
+Pat_4487,None
+Pat_4488,Malaria
+Pat_4489,None
+Pat_4490,None
+Pat_4491,Malaria
+Pat_4492,Malaria
+Pat_4493,Typhoid Fever
+Pat_4494,None
+Pat_4495,Typhoid Fever
+Pat_4496,Both
+Pat_4497,Both
+Pat_4498,None
+Pat_4499,Both
+Pat_4500,Malaria
+Pat_4501,Typhoid Fever
+Pat_4502,Typhoid Fever
+Pat_4503,Both
+Pat_4504,Malaria
+Pat_4505,Both
+Pat_4506,None
+Pat_4507,Typhoid Fever
+Pat_4508,Malaria
+Pat_4509,Typhoid Fever
+Pat_4510,None
+Pat_4511,None
+Pat_4512,Typhoid Fever
+Pat_4513,Typhoid Fever
+Pat_4514,Malaria
+Pat_4515,Both
+Pat_4516,Both
+Pat_4517,Both
+Pat_4518,None
+Pat_4519,None
+Pat_4520,Typhoid Fever
+Pat_4521,Typhoid Fever
+Pat_4522,None
+Pat_4523,None
+Pat_4524,Both
+Pat_4525,Both
+Pat_4526,Both
+Pat_4527,None
+Pat_4528,Typhoid Fever
+Pat_4529,Typhoid Fever
+Pat_4530,None
+Pat_4531,Typhoid Fever
+Pat_4532,Typhoid Fever
+Pat_4533,Malaria
+Pat_4534,Malaria
+Pat_4535,Both
+Pat_4536,Typhoid Fever
+Pat_4537,Typhoid Fever
+Pat_4538,Malaria
+Pat_4539,Malaria
+Pat_4540,Typhoid Fever
+Pat_4541,Both
+Pat_4542,Typhoid Fever
+Pat_4543,Typhoid Fever
+Pat_4544,Malaria
+Pat_4545,Both
+Pat_4546,Both
+Pat_4547,Malaria
+Pat_4548,Typhoid Fever
+Pat_4549,Both
+Pat_4550,Both
+Pat_4551,Malaria
+Pat_4552,Typhoid Fever
+Pat_4553,Both
+Pat_4554,Both
+Pat_4555,None
+Pat_4556,None
+Pat_4557,Typhoid Fever
+Pat_4558,Malaria
+Pat_4559,Malaria
+Pat_4560,None
+Pat_4561,None
+Pat_4562,Typhoid Fever
+Pat_4563,Typhoid Fever
+Pat_4564,Malaria
+Pat_4565,Typhoid Fever
+Pat_4566,Typhoid Fever
+Pat_4567,Both
+Pat_4568,Typhoid Fever
+Pat_4569,Both
+Pat_4570,None
+Pat_4571,Both
+Pat_4572,Typhoid Fever
+Pat_4573,Malaria
+Pat_4574,Typhoid Fever
+Pat_4575,Typhoid Fever
+Pat_4576,None
+Pat_4577,Both
+Pat_4578,Both
+Pat_4579,Typhoid Fever
+Pat_4580,Typhoid Fever
+Pat_4581,Typhoid Fever
+Pat_4582,Typhoid Fever
+Pat_4583,Both
+Pat_4584,Typhoid Fever
+Pat_4585,Both
+Pat_4586,Both
+Pat_4587,Malaria
+Pat_4588,None
+Pat_4589,None
+Pat_4590,Both
+Pat_4591,Both
+Pat_4592,Typhoid Fever
+Pat_4593,Typhoid Fever
+Pat_4594,Typhoid Fever
+Pat_4595,None
+Pat_4596,Both
+Pat_4597,Malaria
+Pat_4598,Typhoid Fever
+Pat_4599,Typhoid Fever
+Pat_4600,Typhoid Fever
+Pat_4601,None
+Pat_4602,Typhoid Fever
+Pat_4603,None
+Pat_4604,None
+Pat_4605,Typhoid Fever
+Pat_4606,Typhoid Fever
+Pat_4607,Typhoid Fever
+Pat_4608,None
+Pat_4609,None
+Pat_4610,Both
+Pat_4611,Malaria
+Pat_4612,None
+Pat_4613,Malaria
+Pat_4614,Typhoid Fever
+Pat_4615,Malaria
+Pat_4616,None
+Pat_4617,Both
+Pat_4618,Both
+Pat_4619,None
+Pat_4620,None
+Pat_4621,None
+Pat_4622,None
+Pat_4623,Both
+Pat_4624,Typhoid Fever
+Pat_4625,Both
+Pat_4626,None
+Pat_4627,Malaria
+Pat_4628,Malaria
+Pat_4629,Malaria
+Pat_4630,None
+Pat_4631,Typhoid Fever
+Pat_4632,Both
+Pat_4633,None
+Pat_4634,None
+Pat_4635,None
+Pat_4636,Typhoid Fever
+Pat_4637,Malaria
+Pat_4638,Typhoid Fever
+Pat_4639,Both
+Pat_4640,Typhoid Fever
+Pat_4641,Both
+Pat_4642,Both
+Pat_4643,Both
+Pat_4644,None
+Pat_4645,Typhoid Fever
+Pat_4646,Malaria
+Pat_4647,Both
+Pat_4648,Typhoid Fever
+Pat_4649,Both
+Pat_4650,Typhoid Fever
+Pat_4651,Typhoid Fever
+Pat_4652,Malaria
+Pat_4653,None
+Pat_4654,Typhoid Fever
+Pat_4655,Malaria
+Pat_4656,Typhoid Fever
+Pat_4657,None
+Pat_4658,Typhoid Fever
+Pat_4659,Typhoid Fever
+Pat_4660,Both
+Pat_4661,Typhoid Fever
+Pat_4662,Typhoid Fever
+Pat_4663,Malaria
+Pat_4664,Typhoid Fever
+Pat_4665,Malaria
+Pat_4666,None
+Pat_4667,Typhoid Fever
+Pat_4668,Typhoid Fever
+Pat_4669,Typhoid Fever
+Pat_4670,None
+Pat_4671,Malaria
+Pat_4672,Typhoid Fever
+Pat_4673,Malaria
+Pat_4674,Typhoid Fever
+Pat_4675,Malaria
+Pat_4676,Malaria
+Pat_4677,Typhoid Fever
+Pat_4678,Typhoid Fever
+Pat_4679,None
+Pat_4680,Typhoid Fever
+Pat_4681,Malaria
+Pat_4682,Malaria
+Pat_4683,Malaria
+Pat_4684,Malaria
+Pat_4685,Typhoid Fever
+Pat_4686,Both
+Pat_4687,Typhoid Fever
+Pat_4688,None
+Pat_4689,Typhoid Fever
+Pat_4690,Both
+Pat_4691,None
+Pat_4692,Both
+Pat_4693,Typhoid Fever
+Pat_4694,Malaria
+Pat_4695,Typhoid Fever
+Pat_4696,None
+Pat_4697,Both
+Pat_4698,Both
+Pat_4699,Typhoid Fever
+Pat_4700,Typhoid Fever
+Pat_4701,Typhoid Fever
+Pat_4702,Typhoid Fever
+Pat_4703,Malaria
+Pat_4704,None
+Pat_4705,Malaria
+Pat_4706,Malaria
+Pat_4707,Typhoid Fever
+Pat_4708,None
+Pat_4709,Typhoid Fever
+Pat_4710,Typhoid Fever
+Pat_4711,Malaria
+Pat_4712,None
+Pat_4713,None
+Pat_4714,Typhoid Fever
+Pat_4715,Typhoid Fever
+Pat_4716,Typhoid Fever
+Pat_4717,Typhoid Fever
+Pat_4718,None
+Pat_4719,Typhoid Fever
+Pat_4720,Both
+Pat_4721,Both
+Pat_4722,Malaria
+Pat_4723,Typhoid Fever
+Pat_4724,Malaria
+Pat_4725,Typhoid Fever
+Pat_4726,Both
+Pat_4727,Typhoid Fever
+Pat_4728,Malaria
+Pat_4729,Typhoid Fever
+Pat_4730,Malaria
+Pat_4731,Both
+Pat_4732,Malaria
+Pat_4733,Typhoid Fever
+Pat_4734,Malaria
+Pat_4735,Typhoid Fever
+Pat_4736,Typhoid Fever
+Pat_4737,Typhoid Fever
+Pat_4738,Typhoid Fever
+Pat_4739,Typhoid Fever
+Pat_4740,Typhoid Fever
+Pat_4741,Both
+Pat_4742,None
+Pat_4743,Malaria
+Pat_4744,None
+Pat_4745,Typhoid Fever
+Pat_4746,Typhoid Fever
+Pat_4747,Malaria
+Pat_4748,Typhoid Fever
+Pat_4749,Typhoid Fever
+Pat_4750,Both
+Pat_4751,Both
+Pat_4752,Typhoid Fever
+Pat_4753,Both
+Pat_4754,Both
+Pat_4755,Malaria
+Pat_4756,Both
+Pat_4757,Typhoid Fever
+Pat_4758, None
+Pat_4759,None
+Pat_4760,None
+Pat_4761,Typhoid Fever
+Pat_4762,None
+Pat_4763,Typhoid Fever
+Pat_4764, None
+Pat_4765,None
+Pat_4766,Typhoid Fever
+Pat_4767,Both
+Pat_4768,Both
+Pat_4769,Both
+Pat_4770,Both
+Pat_4771,Typhoid Fever
+Pat_4772,Typhoid Fever
+Pat_4773,Both
+Pat_4774,Both
+Pat_4775,Both
+Pat_4776,Typhoid Fever
+Pat_4777,Typhoid Fever
+Pat_4778,Both
+Pat_4779,Malaria
+Pat_4780,Both
+Pat_4781,Typhoid Fever
+Pat_4782,Both
+Pat_4783,Typhoid Fever
+Pat_4784,Typhoid Fever
+Pat_4785,Typhoid Fever
+Pat_4786,Both
+Pat_4787,Typhoid Fever
+Pat_4788,Typhoid Fever
+Pat_4789,None
+Pat_4790,Typhoid Fever
+Pat_4791,Typhoid Fever
+Pat_4792,Typhoid Fever
+Pat_4793,Typhoid Fever
+Pat_4794,Both
+Pat_4795,Typhoid Fever
+Pat_4796,Both
+Pat_4797,Both
+Pat_4798,Typhoid Fever
+Pat_4799,Both
+Pat_4800,Both
+Pat_4801,Both
+Pat_4802,None
+Pat_4803,Both
+Pat_4804,Malaria
+Pat_4805,None
+Pat_4806,Both
+Pat_4807,Typhoid Fever
+Pat_4808,Both
+Pat_4809,None
+Pat_4810,None
+Pat_4811,Typhoid Fever
+Pat_4812,None
+Pat_4813,Malaria
+Pat_4814,Both
+Pat_4815,Malaria
+Pat_4816,None
+Pat_4817,Typhoid Fever
+Pat_4818,None
+Pat_4819,None
+Pat_4820,None
+Pat_4821,None
+Pat_4822,None
+Pat_4823,None
+Pat_4824,Malaria
+Pat_4825,None
+Pat_4826,None
+Pat_4827,None
+Pat_4828,None
+Pat_4829,None
+Pat_4830,Both
+Pat_4831,Both
+Pat_4832,Malaria
+Pat_4833,Malaria
+Pat_4834,None
+Pat_4835,None
+Pat_4836,None
+Pat_4837,None
+Pat_4838,Typhoid Fever
+Pat_4839,Typhoid Fever
+Pat_4840,None
+Pat_4841,None
+Pat_4842,Both
+Pat_4843,None
+Pat_4844,Both
+Pat_4845,None
+Pat_4846,Both
+Pat_4847,Both
+Pat_4848,None
+Pat_4849,None
+Pat_4850,Both
+Pat_4851,None
+Pat_4852,None
+Pat_4853,None
+Pat_4854,None
+Pat_4855,None
+Pat_4856,None
+Pat_4857,None
+Pat_4858,Both
+Pat_4859,None
+Pat_4860,None
+Pat_4861,Both
+Pat_4862,None
+Pat_4863,None
+Pat_4864,None
+Pat_4865,None
+Pat_4866,None
+Pat_4867,None
+Pat_4868,Both
+Pat_4869,None
+Pat_4870,None
+Pat_4871,None
+Pat_4872,None
+Pat_4873,None
+Pat_4874,None
+Pat_4875,None
+Pat_4876,None
+Pat_4877,None
+Pat_4878,None
+Pat_4879,None
+Pat_4880,None
+Pat_4881,None
+Pat_4882,None
+Pat_4883,None
+Pat_4884,None
+Pat_4885,None
+Pat_4886,Both
+Pat_4887,None
+Pat_4888,None
+Pat_4889,None
+Pat_4890,None
+Pat_4891,None
+Pat_4892,None
+Pat_4893,None
+Pat_4894,None
+Pat_4895,Both
+Pat_4896,None
+Pat_4897,None
+Pat_4898,Both
+Pat_4899,None
+Pat_4900,None
+Pat_4901,None
+Pat_4902,None
+Pat_4903,None
+Pat_4904,Both
+Pat_4905,None
+Pat_4906,None
+Pat_4907,Both
+Pat_4908,None
+Pat_4909,None
+Pat_4910,None
+Pat_4911,None
+Pat_4912,None
+Pat_4913,None
+Pat_4914,None
+Pat_4915,Both
+Pat_4916,None
+Pat_4917,Both
+Pat_4918,None
+Pat_4919,None
+Pat_4920,None
+Pat_4921,None
+Pat_4922,None
+Pat_4923,None
+Pat_4924,None
+Pat_4925,Both
+Pat_4926,None
+Pat_4927,None
+Pat_4928,None
+Pat_4929,None
+Pat_4930,None
+Pat_4931,None
+Pat_4932,None
+Pat_4933,None
+Pat_4934,None
+Pat_4935,None
+Pat_4936,None
+Pat_4937,Both
+Pat_4938,None
+Pat_4939,None
+Pat_4940,None
+Pat_4941,None
+Pat_4942,None
+Pat_4943,None
+Pat_4944,None
+Pat_4945,Both
+Pat_4946,None
+Pat_4947,None
+Pat_4948,None
+Pat_4949,None
+Pat_4950,None
+Pat_4951,Typhoid Fever
+Pat_4952,Typhoid Fever
+Pat_4953,Both
+Pat_4954,Typhoid Fever
+Pat_4955,None
+Pat_4956,Malaria
+Pat_4957,Typhoid Fever
+Pat_4958,Both
+Pat_4959,Typhoid Fever
+Pat_4960,Typhoid Fever
+Pat_4961,None
+Pat_4962,Typhoid Fever
+Pat_4963,Both
+Pat_4964,Both
+Pat_4965,Typhoid Fever
+Pat_4966,Typhoid Fever
+Pat_4967,Both
+Pat_4968,Both
+Pat_4969,None
+Pat_4970,None
+Pat_4971,Typhoid Fever
+Pat_4972,Typhoid Fever
+Pat_4973,Both
+Pat_4974,Typhoid Fever
+Pat_4975,Typhoid Fever
+Pat_4976,Typhoid Fever
+Pat_4977,None
+Pat_4978, Both
+Pat_4979,None
+Pat_4980,Typhoid Fever
+Pat_4981,None
+Pat_4982, None
+Pat_4983,None
+Pat_4984,None
+Pat_4985,None
+Pat_4986, None
+Pat_4987, Both
+Pat_4988, Both
+Pat_4989, Typhoid Fever
+Pat_4990, None
+Pat_4991, None
+Pat_4992, None
+Pat_4993, None
+Pat_4994, None
+Pat_4995, Typhoid Fever
+Pat_4996,Typhoid Fever
+Pat_4997,Typhoid Fever
+Pat_4998,None
+Pat_4999,Typhoid Fever
+Pat_5000, None
+Pat_5001, None
+Pat_5002, None
+Pat_5003, None
+Pat_5004, Both
+Pat_5005,Typhoid Fever
+Pat_5006, None
+Pat_5007, None
+Pat_5008, None
+Pat_5009, None
+Pat_5010,Malaria
+Pat_5011,Typhoid Fever
+Pat_5012,Typhoid Fever
+Pat_5013,None
+Pat_5014,None
+Pat_5015,None
+Pat_5016, Both
+Pat_5017,Typhoid Fever
+Pat_5018,None
+Pat_5019,Both
+Pat_5020,Typhoid Fever
+Pat_5021, None
+Pat_5022, Both
+Pat_5023,Typhoid Fever
+Pat_5024,None
+Pat_5025,Typhoid Fever
+Pat_5026,None
+Pat_5027,None
+Pat_5028,Typhoid Fever
+Pat_5029,None
+Pat_5030,Malaria
+Pat_5031,Both
+Pat_5032,Malaria
+Pat_5033,None
+Pat_5034,Both
+Pat_5035,Typhoid Fever
+Pat_5036,Both
+Pat_5037,Typhoid Fever
+Pat_5038,Both
+Pat_5039,None
+Pat_5040,Both
+Pat_5041,Typhoid Fever
+Pat_5042,Both
+Pat_5043,Typhoid Fever
+Pat_5044,Malaria
+Pat_5045,Malaria
+Pat_5046,Typhoid Fever
+Pat_5047,None
+Pat_5048,Malaria
+Pat_5049,Both
+Pat_5050,Typhoid Fever
+Pat_5051,None
+Pat_5052,None
+Pat_5053,Typhoid Fever
+Pat_5054,Both
+Pat_5055,None
+Pat_5056,Both
+Pat_5057,None
+Pat_5058,None
+Pat_5059,None
+Pat_5060,Typhoid Fever
+Pat_5061,None
+Pat_5062,Typhoid Fever
+Pat_5063,Malaria
+Pat_5064,Typhoid Fever
+Pat_5065,Both
+Pat_5066,Both
+Pat_5067,Both
+Pat_5068,None
+Pat_5069,None
+Pat_5070,None
+Pat_5071,None
+Pat_5072,Malaria
+Pat_5073,Both
+Pat_5074,None
+Pat_5075,None
+Pat_5076,Both
+Pat_5077,None
+Pat_5078,None
+Pat_5079,None
+Pat_5080,Malaria
+Pat_5081,None
+Pat_5082,None
+Pat_5083,Malaria
+Pat_5084,None
+Pat_5085, Typhoid Fever
+Pat_5086, None
+Pat_5087,None
+Pat_5088,Typhoid Fever
+Pat_5089,Typhoid Fever
+Pat_5090,Both
+Pat_5091,Typhoid Fever
+Pat_5092,Both
+Pat_5093,Both
+Pat_5094,Typhoid Fever
+Pat_5095,None
+Pat_5096,None
+Pat_5097,Typhoid Fever
+Pat_5098,Both
+Pat_5099,None
+Pat_5100,Typhoid Fever
+Pat_5101,Both
+Pat_5102,None
+Pat_5103,None
+Pat_5104,Malaria
+Pat_5105,None
+Pat_5106,None
+Pat_5107,None
+Pat_5108,Typhoid Fever
+Pat_5109,Both
+Pat_5110,Typhoid Fever
+Pat_5111,Both
+Pat_5112,Both
+Pat_5113,Both
+Pat_5114,Typhoid Fever
+Pat_5115,Both
+Pat_5116,Typhoid Fever
+Pat_5117,None
+Pat_5118,None
+Pat_5119,None
+Pat_5120,Both
+Pat_5121,None
+Pat_5122,Typhoid Fever
+Pat_5123,None
+Pat_5124,Both
+Pat_5125,None
+Pat_5126,None
+Pat_5127,Typhoid Fever
+Pat_5128,Typhoid Fever
+Pat_5129,None
+Pat_5130,Malaria
+Pat_5131,Both
+Pat_5132,None
+Pat_5133,Typhoid Fever
+Pat_5134,None
+Pat_5135,Typhoid Fever
+Pat_5136,None
+Pat_5137,None
+Pat_5138,Typhoid Fever
+Pat_5139, None
+Pat_5140,None
+Pat_5141,Both
+Pat_5142,None
+Pat_5143,None
+Pat_5144,Both
+Pat_5145,None
+Pat_5146,None
+Pat_5147,None
+Pat_5148,Typhoid Fever
+Pat_5149,Typhoid Fever
+Pat_5150,Malaria
+Pat_5151,Both
+Pat_5152,None
+Pat_5153,Both
+Pat_5154,Both
+Pat_5155,Both
+Pat_5156,None
+Pat_5157,Both
+Pat_5158,Both
+Pat_5159,None
+Pat_5160,None
+Pat_5161,None
+Pat_5162,None
+Pat_5163,None
+Pat_5164,None
+Pat_5165,None
+Pat_5166,None
+Pat_5167,None
+Pat_5168,None
+Pat_5169,Typhoid Fever
+Pat_5170,None
+Pat_5171,Typhoid Fever
+Pat_5172,None
+Pat_5173,None
+Pat_5174,None
+Pat_5175,None
+Pat_5176,None
+Pat_5177,Both
+Pat_5178,None
+Pat_5179,Malaria
+Pat_5180,None
+Pat_5181,None
+Pat_5182,Typhoid Fever
+Pat_5183,Both
+Pat_5184,Malaria
+Pat_5185,Both
+Pat_5186,None
+Pat_5187,Both
+Pat_5188,Malaria
+Pat_5189,Typhoid Fever
+Pat_5190,None
+Pat_5191,None
+Pat_5192,None
+Pat_5193,None
+Pat_5194,Malaria
+Pat_5195,Typhoid Fever
+Pat_5196,Both
+Pat_5197,None
+Pat_5198,Typhoid Fever
+Pat_5199,Both
+Pat_5200,None
+Pat_5201,Malaria
+Pat_5202,Malaria
+Pat_5203,Both
+Pat_5204,None
+Pat_5205,None
+Pat_5206,Both
+Pat_5207,None
+Pat_5208,Malaria
+Pat_5209,Both
+Pat_5210,None
+Pat_5211,None
+Pat_5212,Typhoid Fever
+Pat_5213,None
+Pat_5214,Typhoid Fever
+Pat_5215,None
+Pat_5216,Both
+Pat_5217,Malaria
+Pat_5218,None
+Pat_5219,None
+Pat_5220,Malaria
+Pat_5221,None
+Pat_5222,Typhoid Fever
+Pat_5223,None
+Pat_5224,Both
+Pat_5225,None
+Pat_5226,Both
+Pat_5227,None
+Pat_5228,None
+Pat_5229,None
+Pat_5230,None
+Pat_5231,None
+Pat_5232,Typhoid Fever
+Pat_5233,Malaria
+Pat_5234,None
+Pat_5235,Both
+Pat_5236,None
+Pat_5237,None
+Pat_5238,Typhoid Fever
+Pat_5239,Both
+Pat_5240,None
+Pat_5241,None
+Pat_5242,Malaria
+Pat_5243,Malaria
+Pat_5244,None
+Pat_5245,None
+Pat_5246,None
+Pat_5247,Malaria
+Pat_5248,None
+Pat_5249,None
+Pat_5250,Both
+Pat_5251,Both
+Pat_5252,None
+Pat_5253,None
+Pat_5254,None
+Pat_5255,Both
+Pat_5256,None
+Pat_5257,Both
+Pat_5258,Malaria
+Pat_5259,None
+Pat_5260,None
+Pat_5261,None
+Pat_5262,Typhoid Fever
+Pat_5263,None
+Pat_5264,None
+Pat_5265,Both
+Pat_5266,Malaria
+Pat_5267,Malaria
+Pat_5268,Both
+Pat_5269,Malaria
+Pat_5270,None
+Pat_5271,None
+Pat_5272,None
+Pat_5273,Typhoid Fever
+Pat_5274,Both
+Pat_5275,None
+Pat_5276,Both
+Pat_5277,None
+Pat_5278,None
+Pat_5279,None
+Pat_5280,Both
+Pat_5281,None
+Pat_5282,None
+Pat_5283,None
+Pat_5284,None
+Pat_5285,None
+Pat_5286,None
+Pat_5287,None
+Pat_5288,None
+Pat_5289,None
+Pat_5290,None
+Pat_5291,None
+Pat_5292,Both
+Pat_5293,None
+Pat_5294,None
+Pat_5295,None
+Pat_5296,Typhoid Fever
+Pat_5297,None
+Pat_5298,None
+Pat_5299,None
+Pat_5300,Malaria
+Pat_5301,Malaria
+Pat_5302,None
+Pat_5303,Both
+Pat_5304,Typhoid Fever
+Pat_5305,None
+Pat_5306,None
+Pat_5307,Typhoid Fever
+Pat_5308,None
+Pat_5309,Both
+Pat_5310,Malaria
+Pat_5311,Malaria
+Pat_5312,None
+Pat_5313,Typhoid Fever
+Pat_5314,None
+Pat_5315,None
+Pat_5316,None
+Pat_5317,None
+Pat_5318,None
+Pat_5319,Typhoid Fever
+Pat_5320,Both
+Pat_5321,Malaria
+Pat_5322,None
+Pat_5323,Both
+Pat_5324,None
+Pat_5325,None
+Pat_5326,None
+Pat_5327,Malaria
+Pat_5328,Both
+Pat_5329,None
+Pat_5330,Malaria
+Pat_5331,Malaria
+Pat_5332,Both
+Pat_5333,None
+Pat_5334,None
+Pat_5335,None
+Pat_5336,Malaria
+Pat_5337,None
+Pat_5338,Both
+Pat_5339,Malaria
+Pat_5340,None
+Pat_5341,Both
+Pat_5342,Malaria
+Pat_5343,Both
+Pat_5344,None
+Pat_5345,None
+Pat_5346,Malaria
+Pat_5347,None
+Pat_5348,None
+Pat_5349,Malaria
+Pat_5350,Malaria
+Pat_5351,Malaria
+Pat_5352,None
+Pat_5353,Both
+Pat_5354,Malaria
+Pat_5355,Malaria
+Pat_5356,None
+Pat_5357,Both
+Pat_5358,None
+Pat_5359,Both
+Pat_5360,Malaria
+Pat_5361,Malaria
+Pat_5362,None
+Pat_5363,None
+Pat_5364,Typhoid Fever
+Pat_5365,Both
+Pat_5366,Both
+Pat_5367,None
+Pat_5368,Both
+Pat_5369,Typhoid Fever
+Pat_5370,None
+Pat_5371,None
+Pat_5372,Both
+Pat_5373,Both
+Pat_5374,None
+Pat_5375,None
+Pat_5376,None
+Pat_5377,Both
+Pat_5378,None
+Pat_5379,Typhoid Fever
+Pat_5380,Both
+Pat_5381,Both
+Pat_5382,Both
+Pat_5383,None
+Pat_5384,Malaria
+Pat_5385,None
+Pat_5386,Both
+Pat_5387,None
+Pat_5388,None
+Pat_5389,Both
+Pat_5390,Both
+Pat_5391,None
+Pat_5392,None
+Pat_5393,Malaria
+Pat_5394,Both
+Pat_5395,None
+Pat_5396,None
+Pat_5397,Both
+Pat_5398,None
+Pat_5399,Malaria
+Pat_5400,None
+Pat_5401,Typhoid Fever
+Pat_5402,Malaria
+Pat_5403,Both
+Pat_5404,Both
+Pat_5405,None
+Pat_5406,None
+Pat_5407,Typhoid Fever
+Pat_5408,Both
+Pat_5409,Both
+Pat_5410,Malaria
+Pat_5411,Malaria
+Pat_5412,None
+Pat_5413,None
+Pat_5414,Typhoid Fever
+Pat_5415,None
+Pat_5416,Malaria
+Pat_5417,Malaria
+Pat_5418,None
+Pat_5419,Both
+Pat_5420,Both
+Pat_5421,Malaria
+Pat_5422,Typhoid Fever
+Pat_5423,Both
+Pat_5424,Malaria
+Pat_5425,Malaria
+Pat_5426,None
+Pat_5427,Typhoid Fever
+Pat_5428,None
+Pat_5429,Both
+Pat_5430,Both
+Pat_5431,None
+Pat_5432,Both
+Pat_5433,Malaria
+Pat_5434,Typhoid Fever
+Pat_5435,Both
+Pat_5436,Malaria
+Pat_5437,Both
+Pat_5438,None
+Pat_5439,Malaria
+Pat_5440,None
+Pat_5441,Both
+Pat_5442,Both
+Pat_5443,Malaria
+Pat_5444,Malaria
+Pat_5445,None
+Pat_5446,Typhoid Fever
+Pat_5447,None
+Pat_5448,None
+Pat_5449,Malaria
+Pat_5450,Both
+Pat_5451,Malaria
+Pat_5452,None
+Pat_5453,None
+Pat_5454,Both
+Pat_5455,None
+Pat_5456,Malaria
+Pat_5457,Malaria
+Pat_5458,Malaria
+Pat_5459,Both
+Pat_5460,Both
+Pat_5461,Both
+Pat_5462,Both
+Pat_5463,Malaria
+Pat_5464,None
+Pat_5465,None
+Pat_5466,Both
+Pat_5467,Malaria
+Pat_5468,Both
+Pat_5469,Both
+Pat_5470,Both
+Pat_5471,Both
+Pat_5472,Malaria
+Pat_5473,None
+Pat_5474,Both
+Pat_5475,None
+Pat_5476,None
+Pat_5477,Malaria
+Pat_5478,Malaria
+Pat_5479,Both
+Pat_5480,Both
+Pat_5481,None
+Pat_5482,Both
+Pat_5483,Both
+Pat_5484,None
+Pat_5485,Both
+Pat_5486,None
+Pat_5487,Both
+Pat_5488,Both
+Pat_5489,Both
+Pat_5490,None
+Pat_5491,Malaria
+Pat_5492,None
+Pat_5493,Both
+Pat_5494,Both
+Pat_5495,None
+Pat_5496,Both
+Pat_5497,Both
+Pat_5498,Malaria
+Pat_5499,None
+Pat_5500,None
+Pat_5501,Both
+Pat_5502,Both
+Pat_5503,Malaria
+Pat_5504,Both
+Pat_5505,Both
+Pat_5506,Malaria
+Pat_5507,None
+Pat_5508,Malaria
+Pat_5509,None
+Pat_5510,Malaria
+Pat_5511,Malaria
+Pat_5512,Both
+Pat_5513,Both
+Pat_5514,None
+Pat_5515,Both
+Pat_5516,Both
+Pat_5517,Both
+Pat_5518,Both
+Pat_5519,None
+Pat_5520,None
+Pat_5521,None
+Pat_5522,Both
+Pat_5523,None
+Pat_5524,None
+Pat_5525,Both
+Pat_5526,Both
+Pat_5527,None
+Pat_5528,None
+Pat_5529,Both
+Pat_5530,Both
+Pat_5531,Malaria
+Pat_5532,None
+Pat_5533,None
+Pat_5534,None
+Pat_5535,None
+Pat_5536,None
+Pat_5537,Both
+Pat_5538,Malaria
+Pat_5539,None
+Pat_5540,None
+Pat_5541,Both
+Pat_5542,Both
+Pat_5543,Both
+Pat_5544,Both
+Pat_5545,Both
+Pat_5546,None
+Pat_5547,Both
+Pat_5548,Both
+Pat_5549,None
+Pat_5550,None
+Pat_5551, Malaria
+Pat_5552,Typhoid Fever
+Pat_5553, None
+Pat_5554, None
+Pat_5555, None
+Pat_5556, None
+Pat_5557, None
+Pat_5558, None
+Pat_5559, Typhoid Fever
+Pat_5560, None
+Pat_5561, None
+Pat_5562, None
+Pat_5563, None
+Pat_5564, None
+Pat_5565, None
+Pat_5566, None
+Pat_5567, None
+Pat_5568, None
+Pat_5569, None
+Pat_5570, None
+Pat_5571, None
+Pat_5572, None
+Pat_5573, None
+Pat_5574, None
+Pat_5575, None
+Pat_5576, None
+Pat_5577,None
+Pat_5578,None
+Pat_5579,None
+Pat_5580,None
+Pat_5581,None
+Pat_5582,None
+Pat_5583,None
+Pat_5584,None
+Pat_5585,None
+Pat_5586,None
+Pat_5587,None
+Pat_5588,None
+Pat_5589,None
+Pat_5590,None
+Pat_5591,Malaria
+Pat_5592,None
+Pat_5593,Malaria
+Pat_5594,None
+Pat_5595,None
+Pat_5596,None
+Pat_5597,None
+Pat_5598,None
+Pat_5599,None
+Pat_5600,Both
+Pat_5601,None
+Pat_5602,None
+Pat_5603,Both
+Pat_5604,Both
+Pat_5605,None
+Pat_5606,None
+Pat_5607,Malaria
+Pat_5608,None
+Pat_5609,None
+Pat_5610,None
+Pat_5611,None
+Pat_5612,None
+Pat_5613,None
+Pat_5614,None
+Pat_5615,None
+Pat_5616,None
+Pat_5617,None
+Pat_5618,None
+Pat_5619,None
+Pat_5620,None
+Pat_5621,None
+Pat_5622,None
+Pat_5623,None
+Pat_5624,None
+Pat_5625,None
+Pat_5626,None
+Pat_5627,None
+Pat_5628,None
+Pat_5629,None
+Pat_5630,None
+Pat_5631,Typhoid Fever
+Pat_5632,None
+Pat_5633,None
+Pat_5634,Malaria
+Pat_5635,None
+Pat_5636,None
+Pat_5637,None
+Pat_5638,Malaria
+Pat_5639,None
+Pat_5640,None
+Pat_5641,Malaria
+Pat_5642,None
+Pat_5643,Malaria
+Pat_5644,Both
+Pat_5645,Typhoid Fever
+Pat_5646,Malaria
+Pat_5647,Both
+Pat_5648,None
+Pat_5649,Malaria
+Pat_5650,None
+Pat_5651,None
+Pat_5652,Typhoid Fever
+Pat_5653,Both
+Pat_5654,Typhoid Fever
+Pat_5655,Malaria
+Pat_5656,Both
+Pat_5657,None
+Pat_5658,Typhoid Fever
+Pat_5659,None
+Pat_5660,Both
+Pat_5661,Malaria
+Pat_5662,Malaria
+Pat_5663,Malaria
+Pat_5664,Typhoid Fever
+Pat_5665,Both
+Pat_5666,Typhoid Fever
+Pat_5667,None
+Pat_5668,Malaria
+Pat_5669,Malaria
+Pat_5670,Both
+Pat_5671,Typhoid Fever
+Pat_5672,None
+Pat_5673,Malaria
+Pat_5674,None
+Pat_5675,None
+Pat_5676,None
+Pat_5677,None
+Pat_5678,None
+Pat_5679,None
+Pat_5680,Both
+Pat_5681,Both
+Pat_5682,Typhoid Fever
+Pat_5683,Malaria
+Pat_5684,Typhoid Fever
+Pat_5685,None
+Pat_5686,Typhoid Fever
+Pat_5687,None
+Pat_5688,Both
+Pat_5689,Malaria
+Pat_5690,Typhoid Fever
+Pat_5691,None
+Pat_5692,None
+Pat_5693,Typhoid Fever
+Pat_5694,Typhoid Fever
+Pat_5695,Typhoid Fever
+Pat_5696,Both
+Pat_5697,None
+Pat_5698,None
+Pat_5699,None
+Pat_5700,None
+Pat_5701,None
+Pat_5702,None
+Pat_5703,None
+Pat_5704,None
+Pat_5705,None
+Pat_5706,None
+Pat_5707,None
+Pat_5708,None
+Pat_5709,None
+Pat_5710,None
+Pat_5711,None
+Pat_5712,None
+Pat_5713,None
+Pat_5714,Both
+Pat_5715,None
+Pat_5716,None
+Pat_5717,None
+Pat_5718,None
+Pat_5719,None
+Pat_5720,None
+Pat_5721,None
+Pat_5722,None
+Pat_5723,None
+Pat_5724,None
+Pat_5725,None
+Pat_5726,None
+Pat_5727,None
+Pat_5728,Both
+Pat_5729,None
+Pat_5730,None
+Pat_5731,None
+Pat_5732,None
+Pat_5733,None
+Pat_5734,None
+Pat_5735,Both
+Pat_5736,None
+Pat_5737,None
+Pat_5738,None
+Pat_5739,None
+Pat_5740,None
+Pat_5741,None
+Pat_5742,Both
+Pat_5743,None
+Pat_5744,None
+Pat_5745,None
+Pat_5746,None
+Pat_5747,None
+Pat_5748,Both
+Pat_5749,Both
+Pat_5750,Both
+Pat_5751,None
+Pat_5752,None
+Pat_5753,None
+Pat_5754,None
+Pat_5755,None
+Pat_5756,None
+Pat_5757,Malaria
+Pat_5758,None
+Pat_5759,None
+Pat_5760,Both
+Pat_5761,None
+Pat_5762,None
+Pat_5763,Both
+Pat_5764,None
+Pat_5765,None
+Pat_5766,None
+Pat_5767,None
+Pat_5768,Both
+Pat_5769,None
+Pat_5770,None
+Pat_5771,None
+Pat_5772,None
+Pat_5773,None
+Pat_5774,None
+Pat_5775,None
+Pat_5776,None
+Pat_5777,None
+Pat_5778,None
+Pat_5779,None
+Pat_5780,None
+Pat_5781,None
+Pat_5782,None
+Pat_5783,None
+Pat_5784,None
+Pat_5785,None
+Pat_5786,None
+Pat_5787,None
+Pat_5788,None
+Pat_5789,None
+Pat_5790,None
+Pat_5791,None
+Pat_5792,None
+Pat_5793,None
+Pat_5794,None
+Pat_5795,None
+Pat_5796,None
+Pat_5797,None
+Pat_5798,Both
+Pat_5799,None
+Pat_5800,None
+Pat_5801,None
+Pat_5802,Both
+Pat_5803,None
+Pat_5804,Malaria
+Pat_5805,Both
+Pat_5806,Both
+Pat_5807,Typhoid Fever
+Pat_5808,Malaria
+Pat_5809,None
+Pat_5810,Typhoid Fever
+Pat_5811,Both
+Pat_5812,Typhoid Fever
+Pat_5813,Both
+Pat_5814,Both
+Pat_5815,Both
+Pat_5816,Malaria
+Pat_5817,Both
+Pat_5818,Typhoid Fever
+Pat_5819,None
+Pat_5820,Both
+Pat_5821,Both
+Pat_5822,Typhoid Fever
+Pat_5823,None
+Pat_5824,Typhoid Fever
+Pat_5825,Both
+Pat_5826,Typhoid Fever
+Pat_5827,Both
+Pat_5828,Both
+Pat_5829,Typhoid Fever
+Pat_5830,Both
+Pat_5831,Typhoid Fever
+Pat_5832,Typhoid Fever
+Pat_5833,Typhoid Fever
+Pat_5834,Typhoid Fever
+Pat_5835,Typhoid Fever
+Pat_5836,Both
+Pat_5837,Typhoid Fever
+Pat_5838,Both
+Pat_5839,Typhoid Fever
+Pat_5840,Both
+Pat_5841,Typhoid Fever
+Pat_5842,Typhoid Fever
+Pat_5843,Both
+Pat_5844,Typhoid Fever
+Pat_5845,Typhoid Fever
+Pat_5846,Both
+Pat_5847,Typhoid Fever
+Pat_5848,Malaria
+Pat_5849,Typhoid Fever
+Pat_5850,Typhoid Fever
+Pat_5851,None
+Pat_5852,Both
+Pat_5853,Both
+Pat_5854,None
+Pat_5855,Both
+Pat_5856,None
+Pat_5857,Both
+Pat_5858,Both
+Pat_5859,Both
+Pat_5860,None
+Pat_5861,Both
+Pat_5862,None
+Pat_5863,Both
+Pat_5864,Typhoid Fever
+Pat_5865,None
+Pat_5866,None
+Pat_5867,Both
+Pat_5868,Typhoid Fever
+Pat_5869,Typhoid Fever
+Pat_5870,Typhoid Fever
+Pat_5871,Both
+Pat_5872,Typhoid Fever
+Pat_5873,Typhoid Fever
+Pat_5874,Typhoid Fever
+Pat_5875,Typhoid Fever
+Pat_5876,Typhoid Fever
+Pat_5877,Both
+Pat_5878,Both
+Pat_5879,Both
+Pat_5880,Both
+Pat_5881,Typhoid Fever
+Pat_5882,Both
+Pat_5883,Both
+Pat_5884,None
+Pat_5885,Both
+Pat_5886,Both
+Pat_5887,Typhoid Fever
+Pat_5888,None
+Pat_5889,Both
+Pat_5890,Typhoid Fever
+Pat_5891,Typhoid Fever
+Pat_5892,Both
+Pat_5893,None
+Pat_5894,Typhoid Fever
+Pat_5895,Both
+Pat_5896,Both
+Pat_5897,Both
+Pat_5898,None
+Pat_5899,Typhoid Fever
+Pat_5900,Malaria
+Pat_5901,Typhoid Fever
+Pat_5902,Both
+Pat_5903,Both
+Pat_5904,None
+Pat_5905,Both
+Pat_5906,None
+Pat_5907,Both
+Pat_5908,Both
+Pat_5909,Typhoid Fever
+Pat_5910,None
+Pat_5911,Both
+Pat_5912,Typhoid Fever
+Pat_5913,Typhoid Fever
+Pat_5914,Both
+Pat_5915,Both
+Pat_5916,None
+Pat_5917,Both
+Pat_5918,Both
+Pat_5919,Typhoid Fever
+Pat_5920,Malaria
+Pat_5921,Both
+Pat_5922,Typhoid Fever
+Pat_5923,Typhoid Fever
+Pat_5924,Both
+Pat_5925,Both
+Pat_5926,None
+Pat_5927,Both
+Pat_5928,Both
+Pat_5929,None
+Pat_5930,Both
+Pat_5931,Both
+Pat_5932,Both
+Pat_5933,Both
+Pat_5934,Typhoid Fever
+Pat_5935,Both
+Pat_5936,Both
+Pat_5937,Both
+Pat_5938,Both
+Pat_5939,None
+Pat_5940,None
+Pat_5941,Both
+Pat_5942,Both
+Pat_5943,Both
+Pat_5944,None
+Pat_5945,Both
+Pat_5946,Both
+Pat_5947,None
+Pat_5948,None
+Pat_5949,Both
+Pat_5950,Both
+Pat_5951,None
+Pat_5952,Both
+Pat_5953,Malaria
+Pat_5954,Both
+Pat_5955,Both
+Pat_5956,Both
+Pat_5957,Both
+Pat_5958,None
+Pat_5959,Both
+Pat_5960,Both
+Pat_5961,Both
+Pat_5962,Both
+Pat_5963,Both
+Pat_5964,Both
+Pat_5965,None
+Pat_5966,Both
+Pat_5967,Both
+Pat_5968,Both
+Pat_5969,Both
+Pat_5970,Both
+Pat_5971,Both
+Pat_5972,Malaria
+Pat_5973,Both
+Pat_5974,Both
+Pat_5975,Both
+Pat_5976,Both
+Pat_5977,Both
+Pat_5978,Both
+Pat_5979,Both
+Pat_5980,Both
+Pat_5981,Both
+Pat_5982,Both
+Pat_5983,Both
+Pat_5984,Both
+Pat_5985,Both
+Pat_5986,Both
+Pat_5987,Both
+Pat_5988,Both
+Pat_5989,Both
+Pat_5990,Both
+Pat_5991,Both
+Pat_5992,Both
+Pat_5993,Both
+Pat_5994,Both
+Pat_5995,Both
+Pat_5996,Both
+Pat_5997,Both
+Pat_5998,None
+Pat_5999,Both
+Pat_6000,Both
+Pat_6001,Both
+Pat_6002,Both
+Pat_6003,Both
+Pat_6004,Malaria
+Pat_6005,Both
+Pat_6006,Both
+Pat_6007,Both
+Pat_6008,None
+Pat_6009,Both
+Pat_6010,Both
+Pat_6011,Both
+Pat_6012,Both
+Pat_6013,Both
+Pat_6014,Both
+Pat_6015,Both
+Pat_6016,Both
+Pat_6017,Malaria
+Pat_6018,Both
+Pat_6019,Both
+Pat_6020,Both
+Pat_6021,Both
+Pat_6022,Both
+Pat_6023,Both
+Pat_6024,Both
+Pat_6025,Both
+Pat_6026,Both
+Pat_6027,Both
+Pat_6028,Both
+Pat_6029,Both
+Pat_6030,Both
+Pat_6031,Both
+Pat_6032,Both
+Pat_6033,Both
+Pat_6034,Both
+Pat_6035,None
+Pat_6036,Both
+Pat_6037,None
+Pat_6038,Both
+Pat_6039,Both
+Pat_6040,Both
+Pat_6041,Both
+Pat_6042,Both
+Pat_6043,Both
+Pat_6044,Both
+Pat_6045,Both
+Pat_6046,Both
+Pat_6047,Both
+Pat_6048,Both
+Pat_6049,Both
+Pat_6050,Both
+Pat_6051,None
+Pat_6052,None
+Pat_6053,Both
+Pat_6054,Both
+Pat_6055,Both
+Pat_6056,Both
+Pat_6057,None
+Pat_6058,Both
+Pat_6059,Both
+Pat_6060,Both
+Pat_6061,Both
+Pat_6062,Both
+Pat_6063,Both
+Pat_6064,Both
+Pat_6065,Both
+Pat_6066,Both
+Pat_6067,Both
+Pat_6068,Both
+Pat_6069,Both
+Pat_6070,Both
+Pat_6071,Both
+Pat_6072,Both
+Pat_6073,Both
+Pat_6074,Both
+Pat_6075,Both
+Pat_6076,Both
+Pat_6077,Both
+Pat_6078,Both
+Pat_6079,Both
+Pat_6080,Both
+Pat_6081,Both
+Pat_6082,Both
+Pat_6083,Both
+Pat_6084,Both
+Pat_6085,Both
+Pat_6086,Both
+Pat_6087,Both
+Pat_6088,Both
+Pat_6089,Both
+Pat_6090,Both
+Pat_6091,Both
+Pat_6092,Both
+Pat_6093,Both
+Pat_6094,Both
+Pat_6095,Both
+Pat_6096,Both
+Pat_6097,Both
+Pat_6098,Both
+Pat_6099,Both
+Pat_6100,Both
+Pat_6101, Malaria
+Pat_6102,Malaria
+Pat_6103,Both
+Pat_6104, Malaria
+Pat_6105,None
+Pat_6106, Typhoid Fever
+Pat_6107,Both
+Pat_6108, Typhoid Fever
+Pat_6109,Both
+Pat_6110, Typhoid Fever
+Pat_6111, Typhoid Fever
+Pat_6112, Typhoid Fever
+Pat_6113, Malaria
+Pat_6114, Both
+Pat_6115, Both
+Pat_6116, Typhoid Fever
+Pat_6117, Typhoid Fever
+Pat_6118, Malaria
+Pat_6119, Typhoid Fever
+Pat_6120, Typhoid Fever
+Pat_6121, Typhoid Fever
+Pat_6122, Typhoid Fever
+Pat_6123, Typhoid Fever
+Pat_6124, Typhoid Fever
+Pat_6125, Both
+Pat_6126, Typhoid Fever
+Pat_6127, Typhoid Fever
+Pat_6128, Typhoid Fever
+Pat_6129, Typhoid Fever
+Pat_6130, Malaria
+Pat_6131, Malaria
+Pat_6132, Typhoid Fever
+Pat_6133, None
+Pat_6134, Typhoid Fever
+Pat_6135, Typhoid Fever
+Pat_6136, Typhoid Fever
+Pat_6137, Typhoid Fever
+Pat_6138, Typhoid Fever
+Pat_6139, Typhoid Fever
+Pat_6140, Typhoid Fever
+Pat_6141, Typhoid Fever
+Pat_6142, Typhoid Fever
+Pat_6143, Typhoid Fever
+Pat_6144, Typhoid Fever
+Pat_6145, Both
+Pat_6146, Both
+Pat_6147, Typhoid Fever
+Pat_6148, Typhoid Fever
+Pat_6149, None
+Pat_6150, Both
+Pat_6151,Both
+Pat_6152,None
+Pat_6153,None
+Pat_6154,Typhoid Fever
+Pat_6155,Both
+Pat_6156,None
+Pat_6157,None
+Pat_6158,None
+Pat_6159,None
+Pat_6160,None
+Pat_6161,None
+Pat_6162,None
+Pat_6163,None
+Pat_6164,None
+Pat_6165,None
+Pat_6166,None
+Pat_6167,None
+Pat_6168,None
+Pat_6169,None
+Pat_6170,None
+Pat_6171,Both
+Pat_6172,None
+Pat_6173,Both
+Pat_6174,None
+Pat_6175,Both
+Pat_6176,None
+Pat_6177,None
+Pat_6178,None
+Pat_6179,None
+Pat_6180,Both
+Pat_6181,None
+Pat_6182,None
+Pat_6183,None
+Pat_6184,None
+Pat_6185,None
+Pat_6186,None
+Pat_6187,None
+Pat_6188,None
+Pat_6189,None
+Pat_6190,None
+Pat_6191,None
+Pat_6192,None
+Pat_6193,None
+Pat_6194,None
+Pat_6195,None
+Pat_6196,None
+Pat_6197,None
+Pat_6198,None
+Pat_6199,None
+Pat_6200,None
+Pat_6201,Both
+Pat_6202,None
+Pat_6203,None
+Pat_6204,None
+Pat_6205,None
+Pat_6206,None
+Pat_6207,None
+Pat_6208,None
+Pat_6209,None
+Pat_6210,None
+Pat_6211,None
+Pat_6212,None
+Pat_6213,None
+Pat_6214,None
+Pat_6215,None
+Pat_6216,None
+Pat_6217,None
+Pat_6218,None
+Pat_6219,None
+Pat_6220,None
+Pat_6221,None
+Pat_6222,None
+Pat_6223,None
+Pat_6224,None
+Pat_6225,None
+Pat_6226,None
+Pat_6227,None
+Pat_6228,None
+Pat_6229,None
+Pat_6230,None
+Pat_6231,None
+Pat_6232,None
+Pat_6233,None
+Pat_6234,None
+Pat_6235,None
+Pat_6236,None
+Pat_6237,None
+Pat_6238,None
+Pat_6239,None
+Pat_6240,None
+Pat_6241,None
+Pat_6242,None
+Pat_6243,None
+Pat_6244,None
+Pat_6245,None
+Pat_6246,None
+Pat_6247,None
+Pat_6248,None
+Pat_6249,None
+Pat_6250,None
+Pat_6251,None
+Pat_6252,None
+Pat_6253,None
+Pat_6254,None
+Pat_6255,Both
+Pat_6256,Both
+Pat_6257,None
+Pat_6258,None
+Pat_6259,Malaria
+Pat_6260,Both
+Pat_6261,Malaria
+Pat_6262,Both
+Pat_6263,None
+Pat_6264,Both
+Pat_6265,Both
+Pat_6266,None
+Pat_6267,Both
+Pat_6268,Both
+Pat_6269,Both
+Pat_6270,None
+Pat_6271,Both
+Pat_6272,None
+Pat_6273,Both
+Pat_6274,Both
+Pat_6275,Both
+Pat_6276,None
+Pat_6277,None
+Pat_6278,None
+Pat_6279,Both
+Pat_6280,Both
+Pat_6281,Malaria
+Pat_6282,Both
+Pat_6283,None
+Pat_6284,Both
+Pat_6285,Both
+Pat_6286,None
+Pat_6287,None
+Pat_6288,None
+Pat_6289,None
+Pat_6290,Both
+Pat_6291,Both
+Pat_6292,None
+Pat_6293,Both
+Pat_6294,Both
+Pat_6295,Both
+Pat_6296,None
+Pat_6297,None
+Pat_6298,Both
+Pat_6299,None
+Pat_6300,None
+Pat_6301,None
+Pat_6302,None
+Pat_6303,Both
+Pat_6304,None
+Pat_6305,Both
+Pat_6306,None
+Pat_6307,None
+Pat_6308,None
+Pat_6309,Both
+Pat_6310,None
+Pat_6311,None
+Pat_6312,Both
+Pat_6313,None
+Pat_6314,None
+Pat_6315,Both
+Pat_6316,None
+Pat_6317,None
+Pat_6318,Both
+Pat_6319,None
+Pat_6320,Both
+Pat_6321,Both
+Pat_6322,None
+Pat_6323,None
+Pat_6324,None
+Pat_6325,None
+Pat_6326,None
+Pat_6327,None
+Pat_6328,None
+Pat_6329,None
+Pat_6330,None
+Pat_6331,Both
+Pat_6332,None
+Pat_6333,None
+Pat_6334,None
+Pat_6335,None
+Pat_6336,Both
+Pat_6337,None
+Pat_6338,None
+Pat_6339,Both
+Pat_6340,None
+Pat_6341,Both
+Pat_6342,Both
+Pat_6343,None
+Pat_6344,None
+Pat_6345,None
+Pat_6346,None
+Pat_6347,None
+Pat_6348,None
+Pat_6349,Both
+Pat_6350,Both
+Pat_6351,None
+Pat_6352,Both
+Pat_6353,None
+Pat_6354,None
+Pat_6355,None
+Pat_6356,Both
+Pat_6357,Both
+Pat_6358,None
+Pat_6359,None
+Pat_6360,None
+Pat_6361,None
+Pat_6362,Both
+Pat_6363,None
+Pat_6364, Typhoid Fever
+Pat_6365,None
+Pat_6366,None
+Pat_6367, Both
+Pat_6368, Typhoid Fever
+Pat_6369, Typhoid Fever
+Pat_6370,None
+Pat_6371, Typhoid Fever
+Pat_6372, Both
+Pat_6373, Typhoid Fever
+Pat_6374,None
+Pat_6375,None
+Pat_6376,None
+Pat_6377, Typhoid Fever
+Pat_6378, Typhoid Fever
+Pat_6379, Malaria
+Pat_6380,None
+Pat_6381,None
+Pat_6382, None
+Pat_6383, Malaria
+Pat_6384,None
+Pat_6385, Typhoid Fever
+Pat_6386, None
+Pat_6387, Typhoid Fever
+Pat_6388,None
+Pat_6389, Malaria
+Pat_6390, None
+Pat_6391, Typhoid Fever
+Pat_6392, Typhoid Fever
+Pat_6393, None
+Pat_6394, None
+Pat_6395, Typhoid Fever
+Pat_6396, None
+Pat_6397, Typhoid Fever
+Pat_6398, Typhoid Fever
+Pat_6399, None
+Pat_6400, Typhoid Fever
+Pat_6401,None
+Pat_6402,Both
+Pat_6403,None
+Pat_6404,None
+Pat_6405,Both
+Pat_6406,None
+Pat_6407,None
+Pat_6408,None
+Pat_6409,Both
+Pat_6410,None
+Pat_6411,None
+Pat_6412,None
+Pat_6413,None
+Pat_6414,Both
+Pat_6415,Both
+Pat_6416,Both
+Pat_6417,None
+Pat_6418,Both
+Pat_6419,None
+Pat_6420,Both
+Pat_6421,None
+Pat_6422,None
+Pat_6423,None
+Pat_6424,None
+Pat_6425,None
+Pat_6426,None
+Pat_6427,None
+Pat_6428,None
+Pat_6429,None
+Pat_6430,Both
+Pat_6431,None
+Pat_6432,None
+Pat_6433,None
+Pat_6434,None
+Pat_6435,None
+Pat_6436,None
+Pat_6437,None
+Pat_6438,None
+Pat_6439,None
+Pat_6440,None
+Pat_6441,None
+Pat_6442,None
+Pat_6443,None
+Pat_6444,Both
+Pat_6445,None
+Pat_6446,None
+Pat_6447,None
+Pat_6448,None
+Pat_6449,None
+Pat_6450,None
+Pat_6451,None
+Pat_6452,Both
+Pat_6453,None
+Pat_6454,None
+Pat_6455,Both
+Pat_6456,None
+Pat_6457,Both
+Pat_6458,None
+Pat_6459,None
+Pat_6460,None
+Pat_6461,Both
+Pat_6462,None
+Pat_6463,None
+Pat_6464,Both
+Pat_6465,None
+Pat_6466,Both
+Pat_6467,None
+Pat_6468,None
+Pat_6469,None
+Pat_6470,Both
+Pat_6471,None
+Pat_6472,None
+Pat_6473,None
+Pat_6474,None
+Pat_6475,None
+Pat_6476,None
+Pat_6477,None
+Pat_6478,None
+Pat_6479,Both
+Pat_6480,None
+Pat_6481,None
+Pat_6482,None
+Pat_6483,None
+Pat_6484,None
+Pat_6485,None
+Pat_6486,None
+Pat_6487,None
+Pat_6488,Both
+Pat_6489,None
+Pat_6490,Both
+Pat_6491,None
+Pat_6492,None
+Pat_6493,None
+Pat_6494,Both
+Pat_6495,None
+Pat_6496,Both
+Pat_6497,None
+Pat_6498,None
+Pat_6499,Both
+Pat_6500,None
+Pat_6501,None
+Pat_6502,None
+Pat_6503,Both
+Pat_6504,None
+Pat_6505,None
+Pat_6506,Both
+Pat_6507,None
+Pat_6508,None
+Pat_6509,None
+Pat_6510,None
+Pat_6511,None
+Pat_6512,Both
+Pat_6513,None
+Pat_6514,None
+Pat_6515,None
+Pat_6516,None
+Pat_6517,None
+Pat_6518,Both
+Pat_6519,Both
+Pat_6520,None
+Pat_6521,Both
+Pat_6522,None
+Pat_6523,Both
+Pat_6524,None
+Pat_6525,None
+Pat_6526,None
+Pat_6527,None
+Pat_6528,None
+Pat_6529,Both
+Pat_6530,None
+Pat_6531,None
+Pat_6532,Both
+Pat_6533,None
+Pat_6534,Both
+Pat_6535,None
+Pat_6536,None
+Pat_6537,None
+Pat_6538,None
+Pat_6539,None
+Pat_6540,None
+Pat_6541,Both
+Pat_6542,None
+Pat_6543,None
+Pat_6544,None
+Pat_6545,None
+Pat_6546,None
+Pat_6547,None
+Pat_6548,None
+Pat_6549,None
+Pat_6550,None
+Pat_6551,None
+Pat_6552,None
+Pat_6553,Both
+Pat_6554,Typhoid Fever
+Pat_6555,None
+Pat_6556,None
+Pat_6557,None
+Pat_6558,None
+Pat_6559,Both
+Pat_6560,Typhoid Fever
+Pat_6561,None
+Pat_6562,Both
+Pat_6563,None
+Pat_6564,Typhoid Fever
+Pat_6565,None
+Pat_6566,None
+Pat_6567,None
+Pat_6568,None
+Pat_6569,None
+Pat_6570,None
+Pat_6571,None
+Pat_6572,None
+Pat_6573,None
+Pat_6574,Typhoid Fever
+Pat_6575,None
+Pat_6576,None
+Pat_6577,None
+Pat_6578,Typhoid Fever
+Pat_6579,None
+Pat_6580,None
+Pat_6581,None
+Pat_6582,Both
+Pat_6583,None
+Pat_6584,Malaria
+Pat_6585,None
+Pat_6586,None
+Pat_6587,None
+Pat_6588,Both
+Pat_6589,Both
+Pat_6590,None
+Pat_6591,None
+Pat_6592,Both
+Pat_6593,None
+Pat_6594,None
+Pat_6595,None
+Pat_6596,None
+Pat_6597,None
+Pat_6598,None
+Pat_6599,None
+Pat_6600,None
+Pat_6601,None
+Pat_6602,None
+Pat_6603,Both
+Pat_6604,None
+Pat_6605,None
+Pat_6606,Both
+Pat_6607,None
+Pat_6608,None
+Pat_6609,None
+Pat_6610,None
+Pat_6611,None
+Pat_6612,None
+Pat_6613,None
+Pat_6614,Both
+Pat_6615,None
+Pat_6616,None
+Pat_6617,None
+Pat_6618,None
+Pat_6619,Both
+Pat_6620,Both
+Pat_6621,Both
+Pat_6622, None
+Pat_6623, None
+Pat_6624, Typhoid Fever
+Pat_6625, None
+Pat_6626, None
+Pat_6627, None
+Pat_6628, None
+Pat_6629, Typhoid Fever
+Pat_6630, None
+Pat_6631, Typhoid Fever
+Pat_6632, None
+Pat_6633, None
+Pat_6634, None
+Pat_6635, None
+Pat_6636, None
+Pat_6637, Typhoid Fever
+Pat_6638, None
+Pat_6639, Typhoid Fever
+Pat_6640, None
+Pat_6641, None
+Pat_6642, Malaria
+Pat_6643, None
+Pat_6644, Typhoid Fever
+Pat_6645, None
+Pat_6646, None
+Pat_6647, None
+Pat_6648, None
+Pat_6649, Typhoid Fever
+Pat_6650, None
+Pat_6651, Malaria
+Pat_6652, None
+Pat_6653, Typhoid Fever
+Pat_6654, Both
+Pat_6655, None
+Pat_6656, None
+Pat_6657, Malaria
+Pat_6658, None
+Pat_6659, Both
+Pat_6660, None
+Pat_6661, None
+Pat_6662, Both
+Pat_6663, None
+Pat_6664, Both
+Pat_6665, Both
+Pat_6666, Both
+Pat_6667, Both
+Pat_6668, Both
+Pat_6669, Both
+Pat_6670, None
+Pat_6671, None
+Pat_6672, Both
+Pat_6673, Both
+Pat_6674, Both
+Pat_6675, Both
+Pat_6676, None
